@@ -1,10 +1,10 @@
 module.exports = {
-  SiteTitle: 'Abdelali',
+  SiteTitle: 'TheDailyBlink',
   Sitelogo: '#',
-  SiteLogoText: 'Abdelali',
-  SiteAuthor: 'Abdelali Dahir',
-  SiteDescription: 'Front End Developer',
-  defaultDescription: 'Software engineer!', 
+  SiteLogoText: 'BookmarkThis',
+  SiteAuthor: 'Nilesh Kumar',
+  SiteDescription: 'Get Free Blinks Here',
+  defaultDescription: 'curating the daily blinks for offline reading', 
   githubApiQuery: `query ($number_of_repos: Int!) {
     viewer {
       name
@@ -42,19 +42,19 @@ module.exports = {
     number_of_repos: 12,
   }, 
   SiteSocialLinks: {
-    twitter: 'https://twitter.com/AbdaliDahir',
-    github: 'https://github.com/AbdaliDahir',
-    linkedin: 'https://www.linkedin.com/in/abdelali-dahir-0b5344111/',
+    twitter: 'https://twitter.com/NileshEvrywhr',
+    github: 'https://github.com/NileshEvrywhr',
+    linkedin: 'https://www.linkedin.com/in/NileshEvrywhr',
   },
   SiteAddress: {
-    city: 'Casablanca',
-    region: 'CurvaSud',
-    country: 'Morocco',
+    city: 'Hyderabad',
+    region: 'Isolated',
+    country: 'India',
     zipCode: 'ZipCode',
   },
   SiteContact: {
-    email: 'abdali.dahir@gmail.com',
+    email: 'knilesh@pm.me',
     phone: 'phone number',
   },
-  SiteCopyright: '2020',
+  SiteCopyright: '2021',
 };
