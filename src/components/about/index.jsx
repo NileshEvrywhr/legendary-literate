@@ -6,7 +6,7 @@ import {SectionIntro, ContainerLayout, ResumeButton} from "../common";
 const About = () => {
   const data = useStaticQuery(graphql`
     query {
-      placeholderImage: file(relativePath: { eq: "profile.webp" }) {
+      placeholderImage: file(relativePath: { eq: "470.png" }) {
         childImageSharp {
           fluid(maxWidth: 550) {
             ...GatsbyImageSharpFluid
@@ -25,12 +25,11 @@ const About = () => {
               <SubTitle> Front End Developer</SubTitle>
             </div> 
             <div>
-              <Title> Hello, I’m AbdAli </Title>
-              <Text> I'm a digital Front End Developer hailing from <b className="text-primary lined-link">North Africa</b> living in Casablanca. </Text>
-              <Text> I love working with modern technologies, building and designing awesome projects. I prefer minimalistic & clean designs with strong user experience.</Text>
-              <Text> behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia.
-              </Text>
-              <ResumeButton href="resume.pdf" target="_blank"> Download resume </ResumeButton>
+              <Title> The Souls of Black Folk </Title>
+              <Text> The Souls of Black Folk (1903) details the conditions of <b className="text-primary lined-link">African Americans</b> in the years after the end of slavery. </Text>
+              <Text> By examining issues such as education, economic opportunities, and the interaction between Black and White Americans, Du Bois highlights the challenging legacy of slavery and the disempowering effects of the racism and segregation that followed. </Text>
+              {/* <Text> behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. </Text> */}
+              <ResumeButton href="resume.pdf" target="_blank"> Download Book </ResumeButton>
             </div>
           </AboutSection>
         </ContainerLayout>
