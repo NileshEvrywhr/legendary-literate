@@ -5,42 +5,42 @@ module.exports = {
   SiteAuthor: 'Nilesh Kumar',
   SiteDescription: 'Get Free Blinks Here',
   defaultDescription: 'curating the daily blinks for offline reading', 
-  githubApiQuery: `query ($number_of_repos: Int!) {
-    viewer {
-      name
-      avatarUrl
-      isHireable
-      resourcePath
-      repositories(last: $number_of_repos, privacy: PUBLIC, orderBy: { field: STARGAZERS, direction:ASC } ) {
-        nodes {
-          name
-          description
-          homepageUrl
-          forkCount
-          createdAt
-          updatedAt
-          resourcePath
-          languages(last: 1, orderBy: { field: SIZE, direction:ASC } ) {
-            edges {
-              node {
-                name
-                color
-              }
-            }
-          }
-          licenseInfo {
-            name
-          }
-          stargazers {
-            totalCount
-          }
-        }
-      }
-    }
-  }`,
-  githubApiVariables: {
-    number_of_repos: 12,
-  }, 
+  // githubApiQuery: `query ($number_of_repos: Int!) {
+  //   viewer {
+  //     name
+  //     avatarUrl
+  //     isHireable
+  //     resourcePath
+  //     repositories(last: $number_of_repos, privacy: PUBLIC, orderBy: { field: STARGAZERS, direction:ASC } ) {
+  //       nodes {
+  //         name
+  //         description
+  //         homepageUrl
+  //         forkCount
+  //         createdAt
+  //         updatedAt
+  //         resourcePath
+  //         languages(last: 1, orderBy: { field: SIZE, direction:ASC } ) {
+  //           edges {
+  //             node {
+  //               name
+  //               color
+  //             }
+  //           }
+  //         }
+  //         licenseInfo {
+  //           name
+  //         }
+  //         stargazers {
+  //           totalCount
+  //         }
+  //       }
+  //     }
+  //   }
+  // }`,
+  // githubApiVariables: {
+  //   number_of_repos: 12,
+  // }, 
   SiteSocialLinks: {
     twitter: 'https://twitter.com/NileshEvrywhr',
     github: 'https://github.com/NileshEvrywhr',
