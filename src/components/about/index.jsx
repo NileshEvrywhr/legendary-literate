@@ -6,7 +6,7 @@ import {SectionIntro, ContainerLayout, ResumeButton} from "../common";
 const About = () => {
   const data = useStaticQuery(graphql`
     query {
-      placeholderImage: file(relativePath: { eq: "470.png" }) {
+      placeholderImage: file(relativePath: { eq: "640.jpg" }) {
         childImageSharp {
           fluid(maxWidth: 550) {
             ...GatsbyImageSharpFluid
@@ -21,8 +21,8 @@ const About = () => {
         <ContainerLayout>
           <AboutSection>
             <div>
-              <Avatar fluid={data.placeholderImage.childImageSharp.fluid} alt="user photo" />
-              <SubTitle> Front End Developer</SubTitle>
+              <Avatar fluid={data.placeholderImage.childImageSharp.fluid} alt="book cover image" />
+              <SubTitle> Lorem Ipsum Dolor</SubTitle>
             </div> 
             <div>
               <Title> The Souls of Black Folk </Title>
