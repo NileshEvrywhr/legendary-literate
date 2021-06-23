@@ -47,14 +47,14 @@ module.exports = {
     linkedin: 'https://www.linkedin.com/in/NileshEvrywhr',
   },
   SiteAddress: {
-    city: 'Hyderabad',
+    city: 'Electricity',
     region: 'Isolated',
     country: 'India',
-    zipCode: 'ZipCode',
+    zipCode: 'NoZipCode',
   },
   SiteContact: {
     email: 'knilesh@pm.me',
-    phone: 'phone number',
+    phone: 'phoneNumber',
   },
   SiteCopyright: '2021',
 };
