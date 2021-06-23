@@ -13,25 +13,50 @@ const About = () => {
           }
         }
       }
+      allMarkdownRemark (filter: {fileAbsolutePath: {regex: "/(about/index.md)/"}}){
+        edges {
+          node {
+            fields {
+              slug
+            }
+            frontmatter{
+              title
+              author
+              synopsis
+              time
+            }                
+          }
+        }
+      }
     }
   `)
+
+  const bookMD = data.allMarkdownRemark.edges;  
   return (
     <>
       <SectionIntro>
         <ContainerLayout>
-          <AboutSection>
-            <div>
-              <Avatar fluid={data.placeholderImage.childImageSharp.fluid} alt="book cover image" />
-              <SubTitle> Lorem Ipsum Dolor</SubTitle>
-            </div> 
-            <div>
-              <Title> The Souls of Black Folk </Title>
-              <Text> The Souls of Black Folk (1903) details the conditions of <b className="text-primary lined-link">African Americans</b> in the years after the end of slavery. </Text>
-              <Text> By examining issues such as education, economic opportunities, and the interaction between Black and White Americans, Du Bois highlights the challenging legacy of slavery and the disempowering effects of the racism and segregation that followed. </Text>
-              {/* <Text> behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. </Text> */}
-              <ResumeButton href="resume.pdf" target="_blank"> Download Book </ResumeButton>
-            </div>
-          </AboutSection>
+        {
+          bookMD.map(({ node }) => {
+            return(
+              <AboutSection key={node.fields.slug}>
+              <div>
+                <Avatar fluid={data.placeholderImage.childImageSharp.fluid} alt="book cover image" />
+                <SubTitle> {node.frontmatter.author}</SubTitle>
+              </div> 
+              <div>
+                <Title> {node.frontmatter.title} </Title>
+                {/* <SubTitle> {node.frontmatter.time}-minute read</SubTitle> */}
+                {/* <Text> under <b className="text-primary lined-link">line</b> text randomize </Text> */}
+                <Text> {node.frontmatter.synopsis} </Text>
+                <Text> {node.frontmatter.about} </Text>
+                
+                <ResumeButton href="en/daily/connect-en-david-bradford-and-carole-robin/connect-en-david-bradford-and-carole-robin.html" target="_blank"> Download Book </ResumeButton>
+              </div>
+            </AboutSection>
+            )            
+          })
+        } 
         </ContainerLayout>
       </SectionIntro>
     </>
