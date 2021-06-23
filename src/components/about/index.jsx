@@ -51,7 +51,7 @@ const About = () => {
                 <Text> {node.frontmatter.synopsis} </Text>
                 <Text> {node.frontmatter.about} </Text>
                 
-                <ResumeButton href="en/daily/connect-en-david-bradford-and-carole-robin/connect-en-david-bradford-and-carole-robin.html" target="_blank"> Download Book </ResumeButton>
+                <ResumeButton href="en/daily/connect-en-david-bradford-and-carole-robin/connect-en-david-bradford-and-carole-robin.pdf" target="_blank"> Download Book </ResumeButton>
               </div>
             </AboutSection>
             )            
