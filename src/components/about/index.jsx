@@ -13,7 +13,7 @@ const About = () => {
           }
         }
       }
-      allMarkdownRemark (filter: {fileAbsolutePath: {regex: "/(about/index.md)/"}}){
+      allMarkdownRemark (filter: {fileAbsolutePath: {regex: "/(today/index.md)/"}}){
         edges {
           node {
             fields {
@@ -50,8 +50,9 @@ const About = () => {
                 {/* <Text> under <b className="text-primary lined-link">line</b> text randomize </Text> */}
                 <Text> {node.frontmatter.synopsis} </Text>
                 <Text> {node.frontmatter.about} </Text>
+                <Text> {node.frontmatter.aboutAuthor} </Text>
                 
-                <ResumeButton href="en/daily/connect-en-david-bradford-and-carole-robin/connect-en-david-bradford-and-carole-robin.pdf" target="_blank"> Download Book </ResumeButton>
+                <ResumeButton href="en/daily/book.pdf" target="_blank"> Download Book </ResumeButton>
               </div>
             </AboutSection>
             )            
