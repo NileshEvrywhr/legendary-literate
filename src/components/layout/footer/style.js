@@ -28,7 +28,7 @@ export const FooterStyle = styled.footer`
 `;
 
 export const SubRight = styled.p`
-	font-size: 1rem;
+	font-size: 1.5rem;
 	line-height: 1.8;
 	letter-spacing:2px;
 	text-transform: capitalize;
@@ -36,7 +36,7 @@ export const SubRight = styled.p`
 	font-family: "GT-Walsheim-Pro-Bold";
 `	
 export const CopyRight = styled.p`
-	font-size: 11px;
+	font-size: 15px;
 	line-height: 1.8;
 	letter-spacing:1px;
 	text-transform: capitalize;
