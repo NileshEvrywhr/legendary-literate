@@ -29,9 +29,15 @@ const About = () => {
           }
         }
       }
+
+      bookPDF: file(relativeDirectory: {eq: "format"}, extension: {eq: "pdf"}) {
+        name
+        publicURL
+      }
     }
   `)
 
+  const bookPDF = data.bookPDF;
   const bookMD = data.allMarkdownRemark.edges;  
   return (
     <>
@@ -53,7 +59,7 @@ const About = () => {
                 {/* <Text> {node.frontmatter.about} </Text> */}
                 {/* <Text> {node.frontmatter.aboutAuthor} </Text> */}
                 
-                <ResumeButton href="en/daily/book.pdf" target="_blank"> Download Book </ResumeButton>
+                <ResumeButton href={bookPDF.publicURL} target="_blank"> Download Book </ResumeButton>
               </div>
             </AboutSection>
             )            
