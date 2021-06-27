@@ -6,14 +6,15 @@ import {SectionIntro, ContainerLayout, ResumeButton} from "../common";
 const About = () => {
   const data = useStaticQuery(graphql`
     query {
-      placeholderImage: file(relativePath: { eq: "640.jpg" }) {
+      coverImage: file(relativePath: {eq: "640.jpg"}) {
         childImageSharp {
           fluid(maxWidth: 550) {
             ...GatsbyImageSharpFluid
           }
         }
       }
-      allMarkdownRemark (filter: {fileAbsolutePath: {regex: "/(today/index.md)/"}}){
+      
+      allMarkdownRemark (filter: {fileAbsolutePath: {regex: "/(daily)/"}}){
         edges {
           node {
             fields {
@@ -41,7 +42,7 @@ const About = () => {
             return(
               <AboutSection key={node.fields.slug}>
               <div>
-                <Avatar fluid={data.placeholderImage.childImageSharp.fluid} alt="book cover image" />
+                <Avatar fluid={data.coverImage.childImageSharp.fluid} alt="book cover image" />
                 <SubTitle> {node.frontmatter.author}</SubTitle>
               </div> 
               <div>
@@ -49,8 +50,8 @@ const About = () => {
                 {/* <SubTitle> {node.frontmatter.time}-minute read</SubTitle> */}
                 {/* <Text> under <b className="text-primary lined-link">line</b> text randomize </Text> */}
                 <Text> {node.frontmatter.synopsis} </Text>
-                <Text> {node.frontmatter.about} </Text>
-                <Text> {node.frontmatter.aboutAuthor} </Text>
+                {/* <Text> {node.frontmatter.about} </Text> */}
+                {/* <Text> {node.frontmatter.aboutAuthor} </Text> */}
                 
                 <ResumeButton href="en/daily/book.pdf" target="_blank"> Download Book </ResumeButton>
               </div>
