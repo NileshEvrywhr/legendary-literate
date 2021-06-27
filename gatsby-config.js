@@ -16,8 +16,8 @@ module.exports = {
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        name: `about`,
-        path: `${__dirname}/src/data/today`,
+        name: `daily`,
+        path: `${__dirname}/src/data/daily`,
       },
     },
     {
