@@ -27,7 +27,7 @@ const Footer = () => {
 					<div className="box">
 						<SubRight> Read what you love. Until you love to read. </SubRight>
 						<CopyRight className="text-dark">
-							©<span> {new Date().getFullYear()}, {data.SiteAuthor} </span> 
+							©<span> {new Date().getFullYear()}, Built by <a href="https://nilesheverywhere.com" rel="noopener noreferrer">{data.SiteAuthor}</a></span> 
 						</CopyRight>
 					</div>
 				</ContainerLayout>
