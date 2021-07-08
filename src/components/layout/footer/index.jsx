@@ -9,6 +9,12 @@ const Footer = () => {
 		<>
 			<FooterStyle>
 				<ContainerLayout>
+				<script type="text/javascript" 
+					src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" 
+					data-name="bmc-button" data-slug="NileshEvrywhr" data-text="buy me a coffee?"
+					data-color="#FFDD00" data-emoji="👨🏽‍💻" data-font="Bree" 
+					data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" >
+				</script>
 					<FooterBody>
 						<FooterSocialMedia>
 							{socialMedia.map(({ id, name, url }) => (
@@ -25,13 +31,11 @@ const Footer = () => {
 						</div>
 					</FooterBody>
 					<div className="box">
-						<SubRight> Good design doesn't date. Bad design does. </SubRight>
+						<SubRight> Read what you love. Until you love to read. </SubRight>
 						<CopyRight className="text-dark">
-							© 
-							<span> {new Date().getFullYear()}, Built with {` `} 
-								<a href="https://www.gatsbyjs.org">Gatsby</a>{" "}
-          		</span> 
-							Copyright 2020 by {data.SiteAuthor} </CopyRight>
+							© 				   
+							<span> <a href="https://nilesheverywhere.com" rel="noopener">{data.SiteAuthor}</a> • Built with {` `} <a href="https://www.gatsbyjs.org" rel="noopener">Gatsby</a>{" "}</span> 
+				  		</CopyRight>
 					</div>
 				</ContainerLayout>
 			</FooterStyle>
