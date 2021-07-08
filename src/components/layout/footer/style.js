@@ -36,7 +36,7 @@ export const SubRight = styled.p`
 	font-family: "GT-Walsheim-Pro-Bold";
 `	
 export const CopyRight = styled.p`
-	font-size: 11px;
+	font-size: 12px;
 	line-height: 1.8;
 	letter-spacing:1px;
 	text-transform: capitalize;

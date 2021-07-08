@@ -25,13 +25,11 @@ const Footer = () => {
 						</div>
 					</FooterBody>
 					<div className="box">
-						<SubRight> Good design doesn't date. Bad design does. </SubRight>
+						<SubRight> Read what you love. Until you love to read. </SubRight>
 						<CopyRight className="text-dark">
-							© 
-							<span> {new Date().getFullYear()}, Built with {` `} 
-								<a href="https://www.gatsbyjs.org">Gatsby</a>{" "}
-          		</span> 
-							Copyright 2020 by {data.SiteAuthor} </CopyRight>
+							© 				   
+							<span> <a href="https://nilesheverywhere.com" rel="noopener">{data.SiteAuthor}</a> • Built with {` `} <a href="https://www.gatsbyjs.org" rel="noopener">Gatsby</a>{" "}</span> 
+				  		</CopyRight>
 					</div>
 				</ContainerLayout>
 			</FooterStyle>
