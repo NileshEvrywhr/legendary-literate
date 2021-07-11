@@ -8,13 +8,7 @@ const Footer = () => {
 	return (
 		<>
 			<FooterStyle>
-				<ContainerLayout>
-				<script type="text/javascript" 
-					src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" 
-					data-name="bmc-button" data-slug="NileshEvrywhr" data-text="buy me a coffee?"
-					data-color="#FFDD00" data-emoji="👨🏽‍💻" data-font="Bree" 
-					data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" >
-				</script>
+				<ContainerLayout>				
 					<FooterBody>
 						<FooterSocialMedia>
 							{socialMedia.map(({ id, name, url }) => (
@@ -26,7 +20,7 @@ const Footer = () => {
 							))}
 						</FooterSocialMedia>
 						<div>
-							<p className="text-primary quote"> Ready to take the next step and work together? </p>
+							<p className="text-primary quote"> Interested in books and want to work together? </p>
 							<ButtonDefault href={`mailto:${data.SiteContact.email}`}> Contact me </ButtonDefault>
 						</div>
 					</FooterBody>
@@ -34,7 +28,7 @@ const Footer = () => {
 						<SubRight> Read what you love. Until you love to read. </SubRight>
 						<CopyRight className="text-dark">
 							© 				   
-							<span> <a href="https://nilesheverywhere.com" rel="noopener">{data.SiteAuthor}</a> • Built with {` `} <a href="https://www.gatsbyjs.org" rel="noopener">Gatsby</a>{" "}</span> 
+							<span> <a href="https://nilesheverywhere.com" rel="noopener">{data.SiteAuthor}</a> • Theme by {` `} <a href="https://twitter.com/AbdaliDahir" rel="noopener">AbdaliDahir</a></span> 
 				  		</CopyRight>
 					</div>
 				</ContainerLayout>
