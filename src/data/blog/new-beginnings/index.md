@@ -4,7 +4,7 @@ date: "2021-07-28T22:40:32.169Z"
 image: './88f3c2fe90e83165842c98105950700c.webp'
 imageCredit: https://dribbble.com/shots/15001590-Alexander-Story-Screens
 time: 2
-categories: ['visual', 'learning', 'formats', 'knowledge']
+categories: ['learning', 'knowledge']
 description: "learn from all kinds of format se learn karo - you're not a single kind of learner"
 ---
 
