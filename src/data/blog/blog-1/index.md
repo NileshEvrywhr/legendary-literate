@@ -1,26 +1,31 @@
 ---
-title: thay the frameworks really destroyed web performance 🤔 ?
+title: why learn how the world works ?
 categories: ['frameworks', 'css', 'performance']
-image: './e4d5ed47ee58aa859995cae2a4e83221.webp'
-imageCredit: https://dribbble.com/shots/13972666-faces
-date: "2015-05-01T22:12:03.284Z"
+image: './6cb693316efc9d7da75e7416621c7101.webp'
+imageCredit: https://dribbble.com/shots/15528887-Book-Day
+date: "2021-06-01T22:12:03.284Z"
 time: 3
-description: "When users are on the go, the best mobile app experience is a fast one. Although the device’s connection speed is out of your control, you can make your app appear like it loads lightning fast."
+description: "This is my first post on this new untitled book project blog thing! How exciting!"
 ---
 
-This is my first post on my new fake blog! How exciting!
+why read on different topics ? - to enhance your worldview, an understanding of the world, refer Meditations by Marcus Aurelius, Range by David Epstein
 
-I'm sure I'll write a lot more interesting things in the future.
+A central theme to Meditations is the importance of analyzing one's judgment of self and others and developing a cosmic perspective:
 
-Oh, and here's a great quote from this Wikipedia on
-[salted duck eggs](https://en.wikipedia.org/wiki/Salted_duck_egg).
+>       You have the power to strip away many superfluous 
+>       troubles located wholly in your judgment, 
+>       and to possess a large room for yourself embracing in 
+>       thought the whole cosmos, to consider everlasting time, 
+>       to think of the rapid change in the parts of each thing, 
+>       of how short it is from birth until dissolution, 
+>       and how the void before birth and that after dissolution 
+>       are equally infinite. 
 
-> A salted duck egg is a Chinese preserved food product made by soaking duck
-> eggs in brine, or packing each egg in damp, salted charcoal. In Asian
-> supermarkets, these eggs are sometimes sold covered in a thick layer of salted
-> charcoal paste. The eggs may also be sold with the salted paste removed,
-> wrapped in plastic, and vacuum packed. From the salt curing process, the
-> salted duck eggs have a briny aroma, a gelatin-like egg white and a
-> firm-textured, round yolk that is bright orange-red in color.
+<!-- Oh, and here's a great quote from this Wikipedia on
+[some funky link](https://en.wikipedia.org/wiki/Salted_duck_egg). -->
 
-![Chinese Salty Egg](./e4d5ed47ee58aa859995cae2a4e83221.webp)
+absorb knowledge from anyhwere you can get - but understand the context in which it could be applied in your situation - do not copy paste - something that worked for another person might not necessarily work you
+
+![Some Funky Book Image](./6cb693316efc9d7da75e7416621c7101.webp)
+
+how to read more books ? - refer mark manson's vid, or do youtube search

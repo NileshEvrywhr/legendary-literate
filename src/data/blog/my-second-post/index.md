@@ -1,28 +1,34 @@
 ---
-title: How To Increase Reviews & Ratings For Your Company
-date: "2015-05-06T23:46:37.121Z"
-image: './b77a3d5bbb3c4138f637152fc823caa2.webp'
-imageCredit: https://dribbble.com/shots/13970599-Ruuunnn
+title: Technicals Of This Website & Future Plans
+date: "2021-07-13T15:46:37.121Z"
+image: './371c060cbef7357ff4e2f54a0408b064.webp'
+imageCredit: https://dribbble.com/shots/11896098-DIY-Coding
 time: 12
 categories: ['javascript', 'css']
-description: "Not only that, but the second address field also caused them to split their input incorrectly in the address fields. This led to confusion and frustration among users."  
+description: "TheDailyBlink - takes free blink of the day from Blinkist and packs into PDF, EPUB, MOBI, audio for you to use offline."
 ---
 
-Have you ever filled out a form and froze on the address field? A [research study](https://baymard.com/blog/address-line-2) found that users come to a confusing stop when they encounter the “address line 2” field.
- 
+Did you ever get the error on Blinkist where it said there is somethign wrong with your internet connection? I didn't know that many people who used Blinkist so I can't confirm but I used to get that a lot. Once 3 days in a row. By the time an early version of this website was ready. 
 
-Not only that, but the second address field also caused them to split their input incorrectly in the address fields. This led to confusion and frustration among users.
-
-Labeling the second address field “Apartment/Suite/Other” did not resolve the issue. Users still came to a confusing stop and wondered whether the field was relevant for them.
-
-Familiarity Principle
----------------------
-
+**Hosted On Netlify**
+-----------------
 Having two address fields violates the principle of Familiarity that states the system should match the user’s real world expectations. When there’s a match, users can interpret the interface based on conventions they’re already familiar with.
 
+
+**Cronjob Gets The Latest Books**
+-----------------------------
 The second address field forces the user to type their address in the system’s preferred format, not the user’s. In the real world, users think of addresses as a single entity. Two text fields causes them to perceive their address as separate entities. Users don’t expect to see this which is why they get confused.
 
-Real World Expectations
------------------------
 
-It’s important to design your form based on the user’s real world expectations. If you force users to rethink conventions in order to match the system, you’ll confuse and frustrate them. Don’t force the user to follow the system, force the system to follow the user.
+**Metalsmith to Generate Ebook Formats**
+-----------------------------
+not just that, from what i understand... metalsmith is a file transformer, you give it some input like markdown or HTML, and pass it through plugins to get different outputs, also order of plugins matter, static websites can also be created, that's how I found out about it when I was researching about static site generators for my [personal webiste](https://nilesheverywhere.com), but i'm no developer.
+
+also planning to release a tool in the form of a node binary that converts markdown into ebook formats
+
+**Domain is Free at Freenom**
+-------------------------------
+thedailyb.link is available at ₹(600-700) at porkbun & namecheap.
+
+
+audio version bhi aa jayega, depending on response kaisa h, and feedback do - social media - kahi bhi - i'm available everywhere literally
