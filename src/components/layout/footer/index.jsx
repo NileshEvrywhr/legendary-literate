@@ -28,14 +28,8 @@ const Footer = () => {
 					<div className="box">
 						<SubRight> Read what you love. Until you love to read. </SubRight>
 						<CopyRight className="text-dark">
-<<<<<<< HEAD
 							©<span> {new Date().getFullYear()}, Built by <a href="https://nilesheverywhere.com" rel="noopener noreferrer">{data.SiteAuthor}</a></span> 
 						</CopyRight>
-=======
-							© 				   
-							<span> <a href="https://nilesheverywhere.com" rel="noopener">{data.SiteAuthor}</a> • Theme by {` `} <a href="https://twitter.com/AbdaliDahir" rel="noopener">AbdaliDahir</a></span> 
-				  		</CopyRight>
->>>>>>> main
 					</div>
 				</ContainerLayout>
 			</FooterStyle>
