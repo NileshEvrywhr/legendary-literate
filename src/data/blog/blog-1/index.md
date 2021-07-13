@@ -1,6 +1,6 @@
 ---
 title: why learn how the world works ?
-categories: ['frameworks', 'css', 'performance']
+categories: ['learning', 'cosmic', 'knowledge']
 image: './6cb693316efc9d7da75e7416621c7101.webp'
 imageCredit: https://dribbble.com/shots/15528887-Book-Day
 date: "2021-06-01T22:12:03.284Z"

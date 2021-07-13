@@ -4,7 +4,7 @@ date: "2021-07-13T15:46:37.121Z"
 image: './371c060cbef7357ff4e2f54a0408b064.webp'
 imageCredit: https://dribbble.com/shots/11896098-DIY-Coding
 time: 12
-categories: ['javascript', 'css']
+categories: ['netlify', 'metalsmith', 'freenom', 'ebook']
 description: "TheDailyBlink - takes free blink of the day from Blinkist and packs into PDF, EPUB, MOBI, audio for you to use offline."
 ---
 
