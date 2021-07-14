@@ -10,6 +10,9 @@ description: "learn from all kinds of format se learn karo - you're not a single
 
 # The Biggest Myth in Education
 -----------------------------
+for the longest time i only had this scoopwhoop article on the subtle art of not giving a f*ck, until a freind of mine gifted me a a hard copy of it. she said everyone shoild have their own copy. 
+
+
 
 refer veritasium's education myth vid - write your own summary on medium on your own blog - or send it to me - i can include it here on the website - watch book summary vids
 
