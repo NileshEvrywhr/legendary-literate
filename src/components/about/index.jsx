@@ -34,10 +34,16 @@ const About = () => {
         name
         publicURL
       }
+
+      bookEPUB: file(relativeDirectory: {eq: "format"}, extension: {eq: "epub"}) {
+        name
+        publicURL
+      }
     }
   `)
 
   const bookPDF = data.bookPDF;
+  const bookEPUB = data.bookEPUB;
   const bookMD = data.allMarkdownRemark.edges;  
   return (
     <>
@@ -58,8 +64,8 @@ const About = () => {
                 <Text> {node.frontmatter.synopsis} </Text>
                 {/* <Text> {node.frontmatter.about} </Text> */}
                 {/* <Text> {node.frontmatter.aboutAuthor} </Text> */}
-                
-                <ResumeButton href={bookPDF.publicURL} target="_blank"> Download Book </ResumeButton>
+                <ResumeButton href={bookPDF.publicURL} target="_blank"> Download PDF </ResumeButton>
+                <ResumeButton href={bookEPUB.publicURL} target="_blank"> Download EPUB </ResumeButton>
               </div>
             </AboutSection>
             )            
