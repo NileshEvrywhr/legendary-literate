@@ -15,7 +15,7 @@ const RepositoryPage = () => {
 
   return (
     <Layout> 
-      <SEO title="Github Repositories" />
+      <SEO title="Library" />
       <ContainerLayout>
         <SectionIntro>
           <RepoInfo>

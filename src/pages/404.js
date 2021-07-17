@@ -5,7 +5,7 @@ import {ContainerLayout, Title, Intro, SubText} from "../components/common"
 
 const NotFoundPage = () => (
   <Layout>
-    <SEO title="404: Not found" />
+    <SEO title="404 Not found" />
     <ContainerLayout>
       <Intro className="center">
         <svg viewBox="0 0 695 272" className="error__emoji">

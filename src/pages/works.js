@@ -11,12 +11,12 @@ const WorkIndex = ({ data }) => {
   return (
     <>
       <Layout> 
-        <SEO title="Showcases" />
+        <SEO title="Projects" />
         <Intro>
           <ContainerLayout>
 
             <SubTitle className="text-dark">
-              Selected Work
+              FOSS Projects out of this one.
             </SubTitle>
 
             <ContainerLayout className="wrapper">
