@@ -18,9 +18,9 @@ const Navbar = ({ siteTitle }) => (
           </NavbarLogo> 
           <div className="main-navigation">
             <NavbarList>
-              <li><Link to="/" className="lined-link" activeClassName="active"> <User /> <span> Today </span> </Link></li> 
-              <li><Link to="/repositories" className="lined-link" activeClassName="active"> <GitHub /> <span> Explore </span> </Link></li>  
-              <li><Link to="/works" className="lined-link" activeClassName="active"> <Cpu /> <span> Tech </span> </Link></li>  
+              <li><Link to="/" className="lined-link" activeClassName="active"> <User /> <span> Today's </span> </Link></li> 
+              <li><Link to="/repositories" className="lined-link" activeClassName="active"> <GitHub /> <span> Library </span> </Link></li>  
+              <li><Link to="/works" className="lined-link" activeClassName="active"> <Cpu /> <span> Projects </span> </Link></li>  
               <li><Link to="/blog" className="lined-link" activeClassName="active"> <Feather /> <span> Blog </span> </Link></li>
             </NavbarList>
           </div>
