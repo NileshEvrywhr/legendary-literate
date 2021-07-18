@@ -14,7 +14,7 @@ module.exports = {
       options: {
         // You can add multiple tracking ids and a pageview event will be fired for all of them.
         trackingIds: [
-          "G-1V1DRG7ZJ8", // Google Analytics / GA          
+          process.env.GATSBY_GOOGLE_ANALYTICS, // Google Analytics / GA          
         ],
         // This object gets passed directly to the gtag config command
         // This config will be shared across all trackingIds
@@ -121,8 +121,8 @@ module.exports = {
       resolve: `gatsby-plugin-hotjar`,
       options: {
         includeInDevelopment: true,
-        id: 2509153,
-        sv: 6
+        id: process.env.GATSBY_HOTJAR_ID,
+        sv: process.env.GATSBY_HOTJAR_SV
       }
     }
   ],
