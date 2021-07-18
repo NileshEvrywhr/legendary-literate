@@ -8,7 +8,7 @@ time: 3
 description: "This is my first post on this new untitled book project blog thing! How exciting!"
 ---
 
-why read on different topics ? - to enhance your worldview, an understanding of the world, refer Meditations by Marcus Aurelius, Range by David Epstein
+why read a range of topics ? - to enhance your worldview, an understanding of the world, refer Meditations by Marcus Aurelius, Range by David Epstein
 
 A central theme to Meditations is the importance of analyzing one's judgment of self and others and developing a cosmic perspective:
 
@@ -21,11 +21,9 @@ A central theme to Meditations is the importance of analyzing one's judgment of 
 >       and how the void before birth and that after dissolution 
 >       are equally infinite. 
 
-<!-- Oh, and here's a great quote from this Wikipedia on
-[some funky link](https://en.wikipedia.org/wiki/Salted_duck_egg). -->
 
 absorb knowledge from anyhwere you can get - but understand the context in which it could be applied in your situation - do not copy paste - something that worked for another person might not necessarily work you
 
 ![Some Funky Book Image](./6cb693316efc9d7da75e7416621c7101.webp)
 
-how to read more books ? - refer mark manson's vid, or do youtube search
+how to read more books ? - refer [mark manson's vid](https://youtu.be/KJ2Lvi9kG2Q) - youtube search for how to be a better reader
