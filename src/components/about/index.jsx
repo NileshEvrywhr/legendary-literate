@@ -65,7 +65,7 @@ const About = () => {
                 {/* <Text> {node.frontmatter.about} </Text> */}
                 {/* <Text> {node.frontmatter.aboutAuthor} </Text> */}
                 <ResumeButton href={bookPDF.publicURL} target="_blank"> Download PDF </ResumeButton>
-                <ResumeButton href={bookEPUB.publicURL} target="_blank"> Download EPUB </ResumeButton>
+                {/* <ResumeButton href={bookEPUB.publicURL} target="_blank"> Download EPUB </ResumeButton> */}
               </div>
             </AboutSection>
             )            
