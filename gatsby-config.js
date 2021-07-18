@@ -95,7 +95,7 @@ module.exports = {
         background_color: `#000`,
         theme_color: `#000`,
         display: `minimal-ui`,
-        icon: `src/assets/img/portfolio-icon.png`, // This path is relative to the root of the site.
+        icon: `src/assets/img/books-192x192.png`, // This path is relative to the root of the site.
       },
     },
     // {
