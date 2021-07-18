@@ -5,6 +5,7 @@ import SEO from "../components/seo"
 // import { graphql } from "gatsby"
 import {RepoGrid, RepoInfo} from "../components/styled/repository"
 import {SectionIntro, ContainerLayout} from "../components/common";
+import { Link } from "gatsby";
 
 const RepositoryPage = () => { 
   // const {
@@ -21,7 +22,7 @@ const RepositoryPage = () => {
           <RepoInfo>
             {/* <Avatar style={{ backgroundImage: `url(${avatarUrl})` }} /> */}
             {/* <h2>{name}</h2> */}
-            <h2>Previous blinks would be available to browse from here</h2>
+            <h2>if you have ideas for this space, raise <Link to="https://github.com/NileshEvrywhr/legendary-literate/issues">github issues</Link></h2>            
           </RepoInfo>
           <RepoGrid>
             {/* {repositories.nodes.map((repo, index) => <Repository key={index} repo={repo} />).reverse()} */}            
