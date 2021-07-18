@@ -23,7 +23,7 @@ const BlogIndex = ({ data }) => {
             </SubTitle>
             <HeaderIntro>
               <SubText>
-                Various writings focused on breadth-first learning, extracted from books on psychology, productivity, money, technology, with observations from my experiments. Phrases from my brain because that's how I think. You're NOT dyslexic.
+                Various writings focused on breadth-first learning, extracted from books on psychology, productivity, money, technology, with observations from my experiments. These are not well formed sentences but phrases, because that's how I think. You're NOT dyslexic.
               </SubText>
               <CategoriesTags /> 
             </HeaderIntro>
