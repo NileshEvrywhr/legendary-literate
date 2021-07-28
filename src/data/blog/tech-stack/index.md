@@ -25,7 +25,7 @@ not just that, metalsmith is a file transformer, you give it some input like mar
 
 **Domain is Free at Freenom**
 -------------------------------
-thedailyb.link is available at ₹(600-700) at porkbun & namecheap.
+thedailyb.link is available at ₹(600-700) at porkbun & namecheap. but i'm currently using a free domain.
 
 
 if the response on this app is good enough, or i have enough time, i'll put more effort on fixing what's needed - follow me anywhere - please give feedback - DM, e-mail or social media - anywhere :P
