@@ -8,7 +8,7 @@ time: 3
 description: "This is my first post on this new untitled book project blog thing! How exciting!"
 ---
 
-why read a range of topics ? - to enhance your worldview, an understanding of the world, refer Meditations by Marcus Aurelius, Range by David Epstein
+why read a range of topics ? - to enhance your worldview, an understanding of the world, refer [Meditations by Marcus Aurelius](https://amzn.to/3l0i9yZ), [Range by David Epstein](https://amzn.to/3BQmf2H)
 
 A central theme to Meditations is the importance of analyzing one's judgment of self and others and developing a cosmic perspective:
 
