@@ -20,7 +20,7 @@ Did you ever get the error on Blinkist where it said there is something wrong wi
 
 **Metalsmith to Generate Ebook Formats**
 -----------------------------
-not just that, metalsmith is a file transformer, you give it some input like markdown or HTML, and pass it through plugins to get different outputs, also order of plugins matter, static websites can also be created, that's how I found out about it when I was researching about static site generators for my [personal webiste](https://nilesheverywhere.com), but i'm no developer.
+not just that, metalsmith is a file transformer, you give it some input like markdown or HTML, and pass it through plugins to get different outputs, also order of plugins matter, static websites can also be created, that's how I found out about it when I was researching about static site generators for my [personal webiste](https://nilesheverywhere.com), as i'm no developer.
 
 
 **Domain is Free at Freenom**
@@ -28,4 +28,4 @@ not just that, metalsmith is a file transformer, you give it some input like mar
 thedailyb.link is available at ₹(600-700) at porkbun & namecheap.
 
 
-if the response on this app is good enough, i'll probably put more effort on fixing what's needed - give feedback - social media - anywhere - i'm available everywhere, quite literally :P
+if the response on this app is good enough, or i have enough time, i'll put more effort on fixing what's needed - follow me anywhere - please give feedback - DM, e-mail or social media - anywhere :P
