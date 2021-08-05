@@ -1,0 +1,111 @@
+---
+title: "A History of the World in 6 Glasses"
+author: "by Tom Standage"
+time: 13
+synopsis: "A History of the World in 6 Glasses (2006) is a look at human history through an unusual lens: our favorite drinks. These blinks outline the global rise of beer, wine, alcoholic spirits, tea, coffee and soda, and how they each played into major historical developments as they spread around the world."
+aboutAuthor: "Tom Standage is an English journalist and author whose articles have appeared in several major publications, including The Economist. He has also written six books, including The Victorian Internet."
+description: "by Tom Standage"
+layout: default.hbs
+---
+
+# What’s in it for me? See how the world’s favorite beverages have influenced human history.
+What’s your favorite drink? Do you enjoy a nice beer after work? A glass of wine with your meal? Or maybe you prefer to stay off the bottle, sticking with tea and coffee?
+Whatever your tipple of choice might be, there’s a good chance that it has a rich history you have yet to learn about – and that’s where these blinks come in. They show you how some of our most beloved beverages, from rum to Coca-Cola, were discovered, developed and drunk. As well as learning how these drinks changed over time, you’ll also get an insight into how the drinks themselves changed the course of human history.
+In these blinks, you’ll also find out
+
+how a tax on rum helped force the British out of America;
+why the French Revolution could be blamed on drinking coffee; and
+why one Soviet general tried to disguise his Coca-Cola as vodka.
+
+ 
+This is a Blinkist staff pick
+“My favorite blinks are those that describe fascinating micro-histories of everyday things you might consider boring at first sight. In these blinks, I learned that some of the most common drinks have had a huge impact on historical events.”
+– Laura, German Editorial Lead at Blinkist
+
+# The discovery of beer contributed to the rise of settled civilizations.
+Most people enjoy a glass of beer now and then, but have you ever wondered who invented it? Well, beer was actually never invented – it was discovered.
+The origins of beer date back to the end of the Ice Age, around 10,000 BC, when people in the area known as the Fertile Crescent – present-day Middle East and Egypt – were producing wild cereal grains in abundance.
+People soon found that when grains were soaked in water, their starch converted to malt. When gruel was made with this malted grain and left to ferment for a few days, it turned into an intoxicating and slightly fizzy drink. People enjoyed its taste and the way it made them feel, so they started to produce more and more of it.
+The desire to produce beer was one of the reasons humans began to settle and, eventually, farm.
+At the time, life was based on hunting and gathering, so humans could only utilize certain areas of land for short periods, and weren’t able to store food. But as their desire for grain-based products like beer and bread increased, they began to look for a constant supply of grain.
+This lead them to discover that stored cereal grains could gradually be consumed over a period of several months, or even years. As they came to understand the benefits of storage, they also realized that it was better to stay near grain reserves.
+The need for grain eventually led people to develop agriculture, too. They began to deliberately plant and cultivate it as their society grew more reliant on grain-based food products – like beer.
+Beer, in turn, became a bigger part of daily life as these early settlements developed into larger civilizations. Beer was a symbol of civilized life and sharing it became a sign of hospitality. It was even used in some religious and state ceremonies.
+In fact, beer is described as the drink of the “civilized man” in the Epic of Gilgamesh, written in Mesopotamia and widely regarded as human history’s first great work of literature.
+
+# Wine was an important status symbol for the ancients.
+Wine is a widely affordable commodity in the modern world, and is enjoyed by the upper and lower classes alike. But this wasn’t always the case.
+In the ancient world, wine was only available in small quantities and was expensive to transport, so only wealthy elites had access to it. The Assyrians, for instance, viewed wine as a symbol of prestige. In 870 BC, Assyrian King Ashurnasirpal made wine the drink of choice at a massive feast he held for the Empire’s elite, as it showcased his power to import the costly beverage from faraway lands.
+Wine also became an integral part of the Ancient Greek social class system. The Greeks learned to produce wine in a way that was slightly more affordable, so it became the preferred drink among the intellectual elite. Wine flowed freely at symposiums and was quickly incorporated into parties and events relating to poetry, art or other intellectual pursuits.
+Beer, on the other hand, was frowned upon in Ancient Greece. They considered it unsophisticated and associated it with the “barbarians” in other lands.
+The Greeks proudly exported their wine and wine culture throughout the Mediterranean, which contributed to their expanding influence around the world. Foreign cultures also came to crave other aspects of Greek culture, like the beautiful jars and amphorae in which they stored their wine.
+Wine was a status symbol in Ancient Rome, too. When Rome replaced Greece as the region’s dominant power in the second century BC, the Romans imported Greek grape vines into Italy, shifting the center of the wine trade.
+Wealthy elites and slaves alike both enjoyed wine, so a person’s social class and status became marked by the kind of wine they drank. The best wines, of course, were reserved for the elite. Falernian, which was first produced in Campania, is still considered one of the world’s finest wines.
+
+# Alcoholic spirits spread from the Middle East and Europe through trade and the invention of distillation.
+Alcohol-producing technology continued to expand over the years and reached another milestone when people in the Arab world developed the distillation process. While the new spirits produced there didn’t gain much traction for religious reasons, they soon took hold in Europe.
+For starters, Europeans believed that distilled wine had healing powers. Michael Salernus, an Italian alchemist, first experimented with the process after reading about the distillation of wine and salt in Arab texts from the twelfth century. Though the resulting spirit wasn’t very pleasant, it soon became regarded as a cure for a number of maladies, from heart diseases to paralysis.
+The popularity of spirits contributed to Europeans expanding their influence across the globe. This is because their imperialism largely stemmed from a desire to obtain more sugar, which was used to produce rum.
+European nations founded a number of sugar plantations on Caribbean islands after colonizing them. For instance, after English settlers brought sugarcane and harvesting equipment to Barbados in the early 1600s, sugar became the island’s most important crop.
+Sugar and rum were so important in the Caribbean that rum became a form of currency! In some cases, it was even used to buy slaves.
+In later years, distilled spirits like rum went on to profoundly impact the course of human history. Rum played a part in the American fight for independence, with the passage of the Molasses Act in 1733. The act placed a tax on molasses, which was used to make rum, imported from places that weren’t British colonies.
+American colonists ignored the law and continued smuggling in French molasses, which was of higher quality. This early and open defiance of British law eventually included other products, like tea, and culminated in the American Revolutionary War.
+
+# Coffee became the drink of choice within intellectual circles across Europe.
+In the Middle Ages, another game-changing drink was developed: coffee. While it first became popular in the Arab world, by the seventeenth century demand began to grow across Europe too.
+Before coffee became widespread, it was common for Europeans to drink beer or wine throughout the day. Most drinking water was contaminated, so a glass of weak beer or wine was a safer bet.
+Coffee, however, was as safe as alcohol because it was made with boiling water. It soon became the drink of choice among people who preferred not to be intoxicated all day, such as scientists, merchants, clerks and other intellectuals. Moreover, coffee gave them bursts of energy and helped wake them up in the morning.
+Soon enough, coffeehouses began to replace taverns as the centers of academic and political debate, and the first English coffeehouses emerged in the mid-seventeenth century. Unlike taverns, they were well lit and filled with nice furniture. They attracted well-to-do customers like merchants, academics and political thinkers, all of whom were pleased to find an intellectual environment less gloomy than a tavern.
+As a result, coffeehouses soon became hotspots for political debate. For instance, it was in coffeehouses where supporters of the exiled Charles II met to debate his return to the throne in 1660. The debates and alliances formed in them played an important role in the restoration of the monarchy and the end of Oliver Cromwell’s reign.
+King Charles II distrusted coffeehouses, however, even though they helped lead to his triumphant return from exile. He was concerned about the free speech that coursed through them, and even attempted to shut them down.
+Coffeehouses spread to other parts of Europe too, particularly Paris and Amsterdam. The establishments allowed people to meet and exchange the latest news and gossip – or start plotting revolutions! In fact, debates and heated conversations in the coffeehouses of Paris contributed so much to the French Revolution that some have said they were the very reason that the monarchy eventually fell.
+
+# Long a staple of Chinese culture, tea rose to prominence in the West when it was adopted by the British.
+Drinking tea is a well-known English tradition – but the English weren’t the first to introduce it to Europe. Tea came to Europe in the seventeenth century on trading ships from China.
+China had long resisted trade with Europe as Chinese merchants felt they didn’t need European goods. But that changed in the mid-sixteenth century when they began to seek more silver and gold. China soon developed a trading relationship with Portugal, where they sent silk and porcelain, and later expanded their trade to other European nations.
+The Dutch were the first to import tea, which was regarded as a novelty at the time. It was considered a luxury as it was more expensive than coffee, and was primarily used for medicinal purposes.
+However, tea quickly became wildly popular in Britain. At the beginning of the seventeenth century, only about six tons of tea were imported each year. By the end of the century, the figure had risen to 11,000 tons – and that’s not counting the vast quantities that were smuggled in illegally, which would have nearly doubled that amount!
+So why did the British love tea so much? It was partly for social reasons; tea was considered fashionable among the royalty and upper classes. As it became more affordable, the lower classes adopted it, too, in order to appear more sophisticated.
+Tea houses and tea gardens soon sprang up throughout the country. They were especially popular with women, as women could buy tea over the counter, whereas most coffeehouses would forbid women from even entering.
+But tea’s journey was still just beginning. The tea industry was about to become a global force that would increase British domination around the world.
+
+# The British love of tea had an impact on the Industrial Revolution and the global balance of power.
+By the eighteenth century, coffee was losing ground to tea in industrial workplaces like factories, as the British Empire continued to promote tea. As such, the rise of tea coincided with – and perhaps even drove – the Industrial Revolution.
+Tea, like coffee, helped keep workers awake. But it had another benefit of its own: it reduced waterborne diseases because of its antibacterial properties. The industrial workers of Britain could now sleep in crowded living spaces without being so vulnerable to the spread of disease. In turn, more people could join the workforce, and more workers meant more factories.
+Nursing mothers also produced healthier milk thanks to tea, which lowered infant mortality rates and grew the working class population even more.
+Tea itself also spurred industrial growth. It gradually became a status symbol, an important part of life for all social classes, and British manufacturers sought to meet the increasing demand by finding innovative ways to boost production. The Wedgwood Company, for instance, became a pioneer in the mass production of tea in this era.
+Around the same time, tea was making the East India Company one of the most powerful companies in the world. The organization was charged with supplying tea to Britain and enjoyed revenues exceeding even those of the British government itself!
+Naturally, this gave them a lot of political power – enough to even stipulate tax policies. For instance, the Tea Act of 1773 allowed the East India Company to export tea to the American colonies tax free, forcing local merchants to pay the import duties and raising prices for American consumers.
+The ensuing protests and boycotts culminated in the now infamous Boston Tea Party. The tea tax was part of a series of unfair tax policies imposed on the Americans, which eventually led them to fight for their independence.
+
+# Soda took off in the United States, and Coca-Cola soon emerged as the market leader.
+About one century later, another groundbreaking drink emerged, this time in the United States: soda.
+The British scientist and clergyman Joseph Priestley was the first to invent carbonized soda, after he discovered the process of dissolving gas into water.
+People initially used Priestley’s carbonated drink for medicinal purposes, as it was similar to natural spring water. In the United States, however, people started drinking it for its taste.
+Soda soon became widely regarded as a refreshing drink, and its popularity grew even more after the introduction of the bottling process, developed in 1805 by Benjamin Silliman, a chemistry professor at Yale University. And in 1909, a bottled soda seller named Joseph Hawkins figured out how to use fountains to dispense soda directly to customers.
+Americans also improved the taste of soda by adding syrups made from fruits to the drink. And one American soon came up with the most famous soda of them all: Coca-Cola.
+John Pemberton, a pharmacist from the state of Georgia, invented Coca-Cola by experimenting with coca, an ingredient he’d read about in medical journals. He created a drink called French Wine Coca by infusing the mixture with wine, but began producing non-alcoholic versions as the Prohibition movement gathered momentum. Eventually, he developed the drink that is now famous around the world.
+While Pemberton initially advertised Coca-Cola as a tonic, it quickly became more popular as a refreshment, thanks in large part to his shrewd marketing skills.
+In fact, he picked the name “Coca-Cola” because he knew the two C’s would look good on advertisements. He wanted Coca-Cola to be everywhere; free samples, posters and banners on soda fountains quickly increased public awareness of his sweet, fizzy drink.
+His strategy was a great success: in 1887, sales of Coca-Cola syrup jumped to 200 gallons a month in Atlanta alone. And just eight years later, annual sales exceeded 76,000 gallons.
+
+# Coca-Cola became a global phenomenon when the United States abandoned its isolationist policy. 
+Coca-Cola is now a major international brand, but it’s hard to imagine a product that’s more distinctly American. So how did it spread across the globe?
+Coca-Cola began its international journey when the United States abandoned its policy of isolationism. Prior to the Second World War, the Coca-Cola company was much like the American government: it had little interest in expanding abroad.
+After the bombing of Pearl Harbor, however, American troops were dispatched all over the globe – and Coca-Cola went with them. Servicemen came to associate Coca-Cola with patriotism and American identity. The company saw an excellent marketing opportunity and issued an order that “every man in uniform gets a bottle of Coca-Cola for five cents, wherever he is.”
+Coca-Cola began building bottling plants in other countries to meet the growing demands of the servicemen, particularly in strategic regions like North Africa. The operations of the plants were then turned over to locals after the war, and the drink became a global favorite.
+In the post-war period, anti-American groups ascribed a very different character to the drink. Communists hated the brand in the Cold War, seeing it as the symbol of American capitalism and imperialism. French Communists even tried to get it banned on the grounds that it was poisonous.
+One Soviet General by the name of Georgy Zhukov adored Coca-Cola, but was wary of being associated with something so American. He thus asked if it could be made clear, so it would look like vodka!
+Coca-Cola even influenced Middle Eastern politics. In the 1960s, Israel came to believe that Coca-Cola was deliberately staying out of the Israel so as not to offend the Arab market, which was potentially much larger. Pro-Israeli groups began considering a boycott across the United States, so the company agreed to license a bottling franchise in Tel Aviv. This, in turn, provoked an Arab boycott, which only ended in the 1980s.
+
+# 
+Coca-Cola supplies three percent of all human liquid intake.
+
+# Final summary
+The key message in this book:
+For several millennia, water was the only drink available to humans. But that has changed completely in the last 10,000 years. Different beverages have risen to global prominence, based not only on their tastes, but on societal shifts as well. Major global industries now revolve around beer, wine, spirits, coffee, tea and Coca-Cola – and these six beloved drinks will continue to shape our lives for years to come.
+Got feedback?
+We’d sure love to hear what you think about our content! Just drop an email to [email protected] with the title of this book as the subject line and share your thoughts!
+Suggested further reading: Bourbon Empire by Reid Mitenbuler
+Bourbon Empire (2015) takes you on an exciting journey through time, revealing the complex history of America’s famous corn-based whiskey. Learn how this tipple survived the dry period of Prohibition, numerous corruption scandals and competition from overseas spirits while making its mark in politics and society.
+
