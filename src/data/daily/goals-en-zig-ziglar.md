@@ -1,0 +1,109 @@
+---
+title: "Goals"
+author: "by Zig Ziglar"
+time: 13
+synopsis: "Goals (2019) provides a comprehensive guide to setting goals and achieving them. By learning how to plan, hold yourself accountable, and foster the personal qualities you need to pursue your dreams, you’re more likely to succeed."
+aboutAuthor: "Zig Ziglar was a prolific author and motivational speaker who inspired thousands of people to unlock their full potential. Of the 28 books he wrote, ten became best sellers. His works have been translated into nearly 40 languages, and continue to be popular years after their first release."
+description: "by Zig Ziglar"
+layout: default.hbs
+---
+
+# What’s in it for me? Live the life you want by learning to set and achieve goals.
+Do you feel frustrated by your lack of progress in life? Perhaps you have great ambitions for your career, or your personal life and relationships. But for some reason, you never seem to get any closer to making your dreams a reality.
+If this sounds familiar, it’s likely that you haven’t learned how to set goals properly. You may not realize that there’s actually a methodology behind effective goal-setting. Once you apply it to your own goals, you’ll discover its transformative power. 
+Not only will you unlock your full potential, but you’ll also have a more positive outlook, become more motivated and start living the life you’ve always wanted. 
+In these blinks, you’ll learn
+
+the valuable lesson caterpillars can teach us;
+the difference one degree Fahrenheit can make; and
+how a record-breaking runner learned to pace himself
+
+
+# Clear goals create a pathway to your full potential.
+French naturalist Jean Henri Fabre once conducted an experiment with caterpillars. The species he chose was called Pine Processionary. They get their name from the way in which they, unerringly, follow one another. 
+Fabre made a ring of these caterpillars around a flowerpot, then put their meal of choice – pine needles – in the center. For seven days, the caterpillars followed each other in a circle, hoping to reach those pine needles. Eventually, they died of hunger, even though food was just inches away.
+Many of us are like those caterpillars. We confuse busyness with meaningful action. But if our actions aren’t carrying us toward a specific destination, we’re just going around in circles. That’s why, if you want to succeed, you need to set goals.
+The key message here is: Clear goals create a pathway to your full potential.
+You may think that you’re smarter than a caterpillar. But have you reflected deeply on what you want to achieve? Have you written down your goals? If you haven’t, you’re not alone. Only 3 percent of Americans have written down clearly defined goals. These are the people who make their dreams a reality.
+Having clearly defined goals will help you stay focused on what you truly want to achieve. It’ll also prevent you from becoming resentful in challenging moments, or distracted when you need to be knuckling down. When you have a clear goal with specific outcomes, you gain direction. Why? Because you understand what exactly you must do to achieve that goal. Working toward something you want generates energy, and that’ll motivate you to put in the effort. 
+It takes time to formulate goals properly. You might think you don’t have days, or even hours, to sit down and think about what you want to achieve in life. But this investment of time is worthwhile.
+Clear goals will give you focus, which’ll make you more efficient. They can save you up to ten hours each week – time you can dedicate to other activities.
+If you have clear goals, you’ll use your time more strategically because you’ll prioritize the steps you need to take to achieve them. This will make you happier because you’ll be spending your time building a life you truly want to live, instead of getting sidetracked by activities that don’t lead to your goal.
+
+# Setting goals requires time and reflection.
+Most of us can list plenty of things we’d like to have or do in life, from owning a mansion to becoming a pro golfer. But there’s a difference between a realistic goal and a whim. If you want to achieve something specific, you need to put aside the time for three crucial goal-setting steps. 
+First, identify what you’re aiming for. Then, evaluate whether you really want to put the effort in. And finally, plan how you’re going to achieve it.
+Here’s the key message: Setting goals requires time and reflection.
+So how do you actually set goals?
+First, grab some paper and write this heading: “Wild Dreams.” Then, spend an hour writing down absolutely every dream you have. Cover things like what you want to be, what you want to do, and what you want to have.
+Don’t worry if your dreams seem ridiculous or even contradictory. The author, for example, listed both eating ice-cream three times a day and exercising for an hour every day.
+Then it’s time for deep reflection. Wait a few days, then look back at your list and ask yourself why you want to achieve each item on it. This will help you sort out the whims – like eating copious amounts of ice-cream – from authentic goals you truly care about, like getting to a healthy weight. If you can’t articulate why you want to achieve a specific dream, strike it off the list.
+Ideally, your list should be balanced. So categorize all items on it. You might group them under “career,” “relationships,” “well-being,” or “finances.” If all your goals fall into one category, you’ll end up unhappy, because you’ll have neglected other aspects of your life.
+The third step is to think about the benefits each goal will bring you, and the resources you’ll need to achieve it. Do you have access to those resources now? If not, perhaps you should delay working on that particular goal.
+Finally, identify four goals that you can start working on immediately. These should be the ones that you care about the most. Why four? Well, that’s the maximum number of goals anyone can realistically juggle. This doesn’t mean you’ll never work on other ambitions – you’ll just put them on hold until you’ve achieved one of your top four goals. 
+With all this, you’re now set to start making your dreams come true. We’ll explore how in the following blinks. 
+
+# Work on your goals every single day.
+The author used to be severely overweight, so much so that his doctor told him to lose 37 pounds – an intimidating prospect for someone obsessed with French chocolate almond ice cream.
+At the time, the author was working on a new book, which, he expected, would take him ten months. So he decided to deal with his extra weight over the same period. That meant losing under four pounds a month – not even a pound a week! Breaking the task down like that made the goal feel manageable.
+If you split goals into small tasks or targets, chances are you won’t feel overwhelmed with them. But that’s just the first step. To actually achieve your goals, you need to apportion those tasks into daily doses.
+The key message is this: Work on your goals every single day.
+If you want to follow through on those daily tasks, you need to hold yourself accountable. Buy a goal planner and map out the milestones that will lead you to achieve your goal. Before you go to bed each night, spend ten minutes recording the actions you took that day. Then identify six activities you can do the next day – things that will move you closer to your goal.
+And if one day you don’t do anything at all to support a goal, well, then it’s time to take out a red pen and write the word “Nothing” in your planner. That way, you can quickly evaluate your progress at the end of each week.
+If you have a trusted partner or friend, share your goals with that person and invite him to do the same, so you can support each other. Reaching ambitious goals works best as a team effort.
+Take, for instance, Roger Bannister – who wanted to become the first person to run a mile in under four minutes. He came up with a speed he needed to achieve, then measured his stride and calculated how quick he had to be at every quarter-mile segment. Three men he’d recruited as pacers helped him keep track of how fast he was running. With their support and his own determination, Bannister succeeded.
+It’s crucial not to listen to voices that say you can’t achieve your goal – especially that voice in your own head. Around 90 percent of the messages we’re exposed to each day are negative. It’s no surprise, then, that 70 percent of our self-talk is also negative. 
+Combat this negativity by visualizing yourself living your dream. This will keep you committed and focused when people try to discourage you.
+ 
+
+# Drive is what fuels goals.
+If you heat water to 211 degrees Fahrenheit, you can make a cup of tea. If you heat it just one more degree, you end up with steam. Steam’s no use if you want a hot drink, but it can do something far more impressive: it can propel a locomotive. That one last degree is what transforms potential into power.
+ 
+Many people who have ambitious goals never increase the heat. They fail to add that final degree, which is crucial for achieving a breakthrough. This is because they lack the drive they need to achieve their goals. If you want to rise above mediocrity, foster an intense desire to succeed.
+ 
+The key message here is: Drive is what fuels goals.
+ 
+People who don’t achieve their goals often think it’s because they simply aren’t good enough. They claim that if their voices were stronger, they’d become famous singers. Or if they had better sales skills, they’d own million-dollar businesses. 
+ 
+But these people typically aren’t using the gifts they already have. Instead of making the most of their potential, they never take action. Why? Because their negativity stops them. In truth, if they fostered their natural talents, they’d be able to develop new skills, and these skills would support them in achieving their goals.
+ 
+These people are missing that crucial ingredient for success – determination. When you’re determined, you find ways to overcome any obstacle that stands between you and your goal, even in the most tragic circumstances.
+For instance, when Bernie Lofchick’s son was diagnosed with cerebral palsy, a specialist said the baby would never walk or talk. But Lofchick was determined to do everything in his power to help his son.
+ 
+On the advice of another specialist, Lofchick and his wife began an intensive, daily therapy program with their son. It took years until young David started showing signs of progress, but they stuck to the program without exception. Thanks to his parents’ unwavering determination, David grew up to be a happily married father and a successful real estate agent.
+ 
+This desire to achieve your goal no matter what will help you transform adversity into opportunity. Instead of giving up when you hit an obstacle, shift your thinking from what you can’t do to what you can do. When you make your goal your mission, you’ll find ways – however small – to move toward it.
+
+# Hard work is the only path to success.
+Many people think that an expensive education is the key to success. But you can graduate from the best school in the country and still fail to achieve your goals. This happened in America in the 1960s, ‘70s and ‘80s. Parents spent nearly three times more on education than in previous decades, and yet SAT scores fell dramatically.
+A US Education Department publication shed some light on this. It found that the best way to predict educational achievement wasn’t to look at school fees or class size. No, the best predictor was homework. Students who completed quality homework got the best grades, whatever school they attended. 
+It’s hard work that makes an A student, not expensive schools. This means all of us can achieve our goals, no matter what type of education we’ve had.
+Here’s the key message: Hard work is the only path to success.
+To support members of the new generation in achieving their goals, we need to help them develop a good work ethic from an early age. It not only leads to people realizing their dreams – it’s great for the country, too.
+For instance, it’s possible that one of the underlying reasons the US has an import deficit is because Americans are being outworked by their Japanese counterparts. People in Tokyo or Osaka aren’t more intelligent than New Yorkers or San Franciscans, but they do know how to work harder. And this is something they learned at a young age.
+By the time a Japanese high school student graduates, she’s spent more time in the classroom than an American college graduate. And on top of that, she’s also studied for three hours a day outside school. 
+By contrast, the average American kid spends just half-an-hour a day on homework. This puts her at a disadvantage later on in life.
+Japanese students also have more focus than American students. Japanese teenagers can tell you exactly what they’ll be doing in ten years from now, and how they’ll achieve those goals. American teenagers are more likely to be able to update you on the latest entertainment or sporting news. But this isn’t their fault. If we want our young people to live their best lives, adults must show them that hard work is the only path to success.
+Even if a teenager is just waiting tables at a local steakhouse, you should encourage her to take pride in her work. If she doesn’t do a simple job well, how will a future employer trust her with a more challenging role? By showing kids that hard work opens doors to opportunity, you’ll ensure that the young people in your life meet their full potential.
+
+# To reach your goals, you must play the long game.
+Thomas Edison was one of America’s most prolific inventors. But despite his genius, success didn’t come easily. Before he invented the light bulb, Edison conducted 10,000 failed experiments. He didn’t see these experiments as failures, though. He saw them as successfully discovering 10,000 ways incandescent light didn’t work.
+There’s no such thing as overnight success. It takes time and commitment to achieve challenging goals. What often seems like a sudden breakthrough is almost always the result of effort and hard work that happens behind the scenes.
+The key message is this: To reach your goals, you must play the long game.
+According to former US president Calvin Coolidge, persistence is more important than talent when it comes to achieving goals. In fact, success looks much less glamorous than most people realize. In a study of company vice presidents who earned more than $200,000 a year, those with the highest income had been in the same job for more than 15 years. Over 80 percent were still married to their first spouses, and all of them said their success came about because of all the hard work they’d put in. 
+Often, people with ambitious goals forget that you need to put in the effort before you reap rewards. They’re convinced that if their boss would just give them that raise, they’d work harder and reach their next career goal. But that isn’t how success works. Just like a farmer who has to tend to the crops before harvesting, you have to put in the effort before you reap the rewards.
+And if you think about which achievements you value most, you’ll probably agree that it’s those that demanded the most work – perhaps a promotion you’ve striven to earn, or an A grade in a subject you struggle with. 
+When the odds are stacked against you, what keeps you going is discipline. That’s why it’s so important to hold yourself accountable – remember that goal planner we’d discussed in previous blinks? 
+Like Edison, you may need to pursue thousands of potential solutions before you reach a breakthrough. Every attempt will bring you new knowledge and insight.
+And there’s another thing you can learn from Edison: don’t give up too soon. Often, we don’t reach our goals because we stop trying. But you will never succeed unless you give it your all every single day.
+It’s that persistence, combined with hard work and determination, that will bring you the success you seek.
+
+# Final summary
+The key message in these blinks is that:
+Unless you put the effort into carefully selecting and planning your goals, you won’t have a clear roadmap to achieving them. But even a clear roadmap won’t help you progress, unless you put in the effort each day, monitoring your progress and holding yourself accountable. If you couple that commitment with unwavering desire to succeed, you’ll be able to overcome any obstacle, achieve your goals, and live a full and enriching life.
+And here’s some more Actionable advice: 
+Write a book to identify what you want to achieve.
+It takes time, energy, and commitment to achieve goals. Which is why, before you begin working toward them, it makes sense to reflect properly on where you’re trying to get to. But what do you do if you’re not clear on what you want to achieve in life? If you face this predicament, give yourself the task of writing a book. Its title might be something like How to Live Your Best Life. Use the act of writing to explore what’s important to you and what you see as meaningful. Don’t write with the intention of publishing the book; instead, write to discover and articulate what matters to you.
+Got feedback?
+We’d love to hear what you think about our content! Just drop an email to [email protected] with Goals as the subject line, and share your thoughts!
+
