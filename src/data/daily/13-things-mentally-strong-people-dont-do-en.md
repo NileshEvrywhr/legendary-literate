@@ -1,0 +1,218 @@
+---
+title: "13 Things Mentally Strong People Don't Do"
+author: "by Amy Morin"
+time: 13
+synopsis: "13 Things Mentally Strong People Don’t Do (2014) explains how to develop great mental strength by taking control of your emotions, thoughts, and actions. With useful tips, inspiring examples, and practical solutions, this book will help you overcome your fears and start living life to the fullest."
+aboutAuthor: "Amy Morin, a psychotherapist and licensed clinical social worker, is a regular columnist for Forbes, where she writes about business and psychology. She is also the host of The Verywell Mind Podcast. "
+description: "by Amy Morin"
+layout: default.hbs
+---
+
+# What’s in it for me? Overcome what’s holding you back and live the life you dream of.
+It’s time to make a positive change to your life! In these blinks, we’ll look at 13 habits that can help us develop greater mental strength. By developing our mental resilience, we can achieve a lasting positive impact on our lives. So, let’s get started with the first habit.
+A note to readers: this Blink was redone especially for audio. This is the reason why the text version might differ from the audio version. If you’re trying to decide whether to listen or to read, we highly recommend listening!
+
+# Mentally strong people replace self-pity with gratitude.
+No one is immune to hard times. Whether it comes in the form of illness or some other personal tragedy, sooner or later, life’s going to throw you some curveballs. How you react to these situations says a lot about you.
+One of the hallmarks of mentally strong people – those who aren’t knocked down when things get tough – is that they don’t spend precious time pitying themselves when facing difficulties.
+So what do they do instead? They replace self-pity with gratitude – and you can too.
+If you want an inspiring example of mental strength and the importance of gratitude, take American long-distance runner Marla Runyan. Not only has she run the New York Marathon in a little over two hours, she also has a master’s degree in education and has written a book.
+But perhaps most impressively, she’s accomplished all of this while being legally blind.
+At the age of nine, Runyan was diagnosed with Stargardt’s disease, a degenerative disease that affects the eyes. Despite her quickly worsening eyesight, Runyan developed a passion for running and went on to win several medals, setting world records at the 1992 and 1996 Paralympics.
+The key to her success lies in her refusal to indulge in self-pity. She’s always refused to see her illness as a disability; instead, she sees it as an opportunity, a gift that has enabled her to become a world-class athlete. Rather than dwelling on what her illness took away from her, she’s actually grateful for what it gave her.
+And there’s good reason to take a page out of Runyan’s book. Research shows that developing your capacity for gratitude can make you stronger on many levels.
+To begin with, increased gratitude can improve your physical health. A 2003 study published in the Journal of Personality and Social Psychology, for example, found that people who are grateful have healthier immune systems and suffer less often from aches and pains. What’s more, they also exercise more frequently, sleep better and enjoy a better general standard of health than their less grateful peers.
+So gratitude is clearly very important. Now let’s turn to another feature of the mentally strong.
+
+# Mentally strong people hold onto their power and forgive others.
+In 1956, Andy Warhol offered one of his paintings to the New York Museum of Modern Art. The museum refused, seeing no potential in the young painter’s work. Fast forward a few decades and Warhol had become so successful that he had his own museum.
+Shortly before recording an album that would go on sell over 10 million copies, Madonna received a rejection letter from a major record label. Dismissively, the note suggested that “the only thing missing from this project is the material.”
+Most successful people have faced similar moments of rejection in their lives, moments where the negative opinions of others could have nipped their careers in the bud.
+What distinguishes mentally strong people, like Madonna and Warhol, is that they don’t let the opinions of others determine how they think and act in life. In other words, they refuse to delegate the power over their lives to others.
+Oprah Winfrey is another great example of someone with this aspect of mental strength. She was raised in poverty and experienced repeated instances of sexual abuse. At the age of 14, she became pregnant, only for the child to die shortly after birth. Throughout this difficult period, she was frequently mocked and taunted by others for being poor.
+But Oprah didn’t waste her time worrying about what others were saying about her; instead, she worked and studied hard and got a job as a TV news anchor. However, she was subsequently fired because she wasn’t considered “suitable” to be on air.
+Again, she didn’t let the opinions of others take away her power. She worked harder than ever and, eventually, developed what would become her mega-successful talk show.  
+Not so bad for someone who had once been teased for being so poor she had to wear potato sacks for clothes.
+As Oprah’s experience shows, holding on to your power is crucial to success. But how do you do it?
+It might seem counterintuitive, but forgiving others for their transgressions against you is an important part of reclaiming your power. If you hold a grudge, emotions of anger and resentment will not have an impact on the person you are angry with; they will, however, limit your own ability. In fact, all you’re doing is giving more power to that person to disrupt your life.  
+Forgiving others enables you to reclaim your power by placing your focus back on you. And the psychological and physical benefits are notable, with many studies confirming that forgiveness reduces stress. For example, when people engage in forgiveness, their blood pressure decreases and their hearts beat more calmly.  
+A 2012 study, published in the Journal of Behavioral Medicine, also showed that forgiveness is a predictor of longevity – but only if it’s unconditional forgiveness.
+People who were only prepared to forgive others if they fulfilled certain conditions – for example, if they had apologized for what they did – had lower life expectancy than a control group. Unconditional forgiveness, on the other hand, ensured a longer life span.
+So don’t give up your power and learn to forgive!
+
+# 
+“Waiting to forgive people until they say they’re sorry gives them control over not just your life, but perhaps your death.”
+
+# Mentally strong people are always ready to embrace change.
+Judge Greg Mathis is a great example of a mentally strong person. Arrested several times as a teenager, he promised his dying mother that he would change. After being released from jail on probation, he started working at McDonald’s and eventually got accepted to Eastern Michigan University, and later, law school. However, because of his record as a criminal, he was barred from working as a lawyer.
+It would have been easy to let this obstacle from the past stand in his way. But Mathis was always ready for change, even when it seemed improbable; he quickly found other ways to serve the city of Detroit.
+After a period as the manager for Detroit Neighborhood City Halls, he and his wife founded a nonprofit organization that helped young people find work. A few years later, despite his opponents never missing a chance to bring up his criminal past, he was elected a judge by the people of Detroit.
+Mathis’s success is testament to another characteristic of mentally strong people: embracing change in your life. So how can you adopt the right attitude toward change?
+The first step is to ask yourself which change you’d like to make in your life, thinking very carefully about how this change would make you feel. Pay special attention to negative feelings and thoughts, like “I’ll never be able to do this” or “There’s no use in trying because I’ve always failed in the past.”
+Once you have these pesky thoughts and feelings at the center of your mind, you can decide whether you should listen to them or not. It’s highly likely that you’ll discover that such thoughts are unfounded and not worth listening to.
+Once you’ve learned to ignore these types of thoughts, you can create a plan for successful change. It consists of five steps:
+
+Set yourself a 30-day goal. Let’s say you’re trying to learn French. A good 30-day goal could be to learn the 300 most common words in the language.
+Decide on concrete, daily changes in your behavior that will help you reach that goal. To reach your 30-day goal of learning 300 French words, you could decide on a time each day where you learn ten new words.
+Create a list of anticipated hurdles along the way. For instance, you might anticipate that there will be days when drilling words will feel like a boring, repetitive chore. When this happens, you could decide to picture yourself mentally in France, comfortably chatting away with someone in French. That will give you renewed motivation.
+Create accountability. Ask a friend if he or she would be willing to test you on all the 300 words once the 30 days are up. That way, you’ll be more likely to reach your goal.
+Measure progress. Make sure to keep a journal of how many words you’ve learned. Seeing it fill up with all your daily achievements will motivate you to keep going.
+
+ 
+ 
+By being more mindful about your feelings around change and by using the five steps for preparing for change, you’ll be on your way toward your goals.
+
+# Mentally strong people don’t get distracted by things they can’t control.
+If you’ve ever been caught in bad traffic on your way to an important appointment, you probably know how frustrating it can be. You hiss and froth, cursing the cars in front of you. Although it can feel good to hurl invectives at the world, you should remember that it’s a total waste, not just of time but of precious energy.
+You’ll never catch a mentally strong person doing this – they never waste energy fretting over things they can’t control.
+Take Terry Fox, who was diagnosed with osteosarcoma, a severe type of bone cancer, when he was just 18. As a result of the disease, one of his legs had to be amputated and doctors told him he had only a 15-percent chance of surviving the illness.
+The day before his surgery, Fox read about a person with a prosthetic leg who ran the New York marathon and was immediately inspired. Following his operation, he began running and soon completed his first marathon.
+But this was just the beginning. Fox decided to raise money for cancer research by finding sponsors for a race across all of Canada. To complete this epic trek, he planned to run the equivalent of one marathon every day.
+Half-way through his journey across Canada, Fox broke down and had to be hospitalized; his cancer had returned. Though he couldn’t complete his trek, the sponsorship money kept pouring in, as people were inspired by his courage and ambition. He died months later, but only after raising $23 million for cancer research.
+What can we learn from Fox’s story?
+Don’t waste effort on what you can’t control; concentrate on doing what you can. Fox couldn’t control his health, so he didn’t focus on that. Instead, he concentrated on where he could make a difference: raising millions for charity.
+Research shows that this attitude toward things that aren’t under your control can work wonders for your well-being. A 2012 study by K. April showed that being less controlling increases happiness and leads to better relationships.
+In fact, the greatest levels of happiness are achieved by people who take a lot of steps to steer their life in the direction they want, while at the same time accepting that there are many things that are out of their control.
+
+# Always wanting to please others doesn’t work, and being ready to sometimes displease makes you stronger.
+You’ve probably noticed that some people are mortally afraid of showing their true emotions, like anger or sadness, for fear of hurting other people’s feelings. Perhaps someone close to you is like that.
+Although being sensitive to other people’s feelings may seem like an unquestionable virtue, it often backfires. If you want to develop your own mental strength, you should learn not to fear hurting other people’s feelings.
+For example, one of the author’s acquaintances, Angela, always strived to please the men she dated. If the men told her they liked humor in a woman, she would try to crack a few jokes. If they said they liked spontaneity, she would tell them about her travels to France, embellishing details to make them seem spontaneous even though they were carefully planned.
+She was trying to make herself more attractive, but her efforts had the opposite effect. After all, no one wants to date a fake and shallow person who allows themselves to become a screen onto which you can project different fantasies.
+Angela always agreed with everything her dates said because she thought that if she presented her own opinion, it would hurt their feelings and make them run away. In the end, she cared more about their feelings than her own.
+This is no way to lead your life; in fact, being prepared to displease other people actually makes you stronger.
+Take the example of Mose Gingerich. Raised in an Amish village, as a young adult Mose began to doubt whether he shared Amish values and belief systems. Leaving the community, however, would be a tough choice, as this would sever all contact to the community, including to his mother and sister, forever.
+He experimented with temporarily leaving the community and travelling to other Amish cultures to see the world in between.
+In the end, he was strong enough to walk away from everything that was known to him. He moved to Missouri, founded a construction company and married happily. This newfound security also allowed him to accept the disapproval of his entire childhood community. In short, listening to yourself, and not to the concerns of others, will make your confidence and happiness soar.
+
+# Mentally strong people are not afraid of taking calculated risks.
+If there’s one thing that’s certain, it’s that you’ll never get very far if you don’t take any risks in life.
+However, taking big risks can lead to demotivating failures. Quitting your day job to turn your hobby into a business, even though you have no prior business experience, might seem like a great idea – but it most likely involves greater risks than you think. If you fail, you’ll not only be left without a job and income, you might never want to take any risks again.
+That’s why mentally strong people always seek to minimize the risks they take, and when they need to take a risk, they are clever about which ones they take.
+Mitigating risk starts by carefully analyzing the nature of the risk itself. Once the elements of risk are clear, you can take the right steps to minimize them.  
+When the author, for example, was asked to deliver a valedictorian address at her school’s graduation ceremony, she was more terrified than excited about the opportunity. So, she tried to figure out what exactly it was that scared her so much and determine what the risk actually was.
+She discovered that what really worried her was that the audience would reject her. So, she made a plan with her best friends to circumvent this fear: they decided that, once she was done with her speech, her friends would give her a standing ovation.
+She gave the speech with a great deal of nervous fumbling – but as soon as she was done, her friends got on their feet and started cheering as if she was their greatest idol. And, remarkably, the other people followed suit. By preparing just a bit, she was able to take the risk of public speaking without really risking the humiliation she dreaded.
+Or take the example of the famous psychologist Albert Ellis. As a young man, Ellis was terrified of talking to women because of the corresponding risk of rejection. However, after giving it some rational thought, he concluded that possible rejection was not as bad as he imagined. So he gave talking to women a try.
+He went to the local botanical garden every day and sat down next to women sitting alone. After engaging them in conversation, he would ask them if they’d like to go for a drink. In total, he talked to 130 women, 30 of whom left as soon as he sat down.
+Of the remaining 100 that he invited on a date, only one accepted – and even then she didn’t show up for the date. But for Ellis this didn’t matter. The important thing was the realization that his irrational fear of rejection was unjustified. He had unnecessarily let it hinder him from talking to members of the opposite sex for too long.
+So, if you want to develop your mental strength, start looking at the risks that hold you back. Maybe they aren’t as dangerous and scary as you've always imagined.
+
+# Coming to terms with the past makes you stronger, but it takes concrete steps to do so.
+Many people feel like they are haunted by their past and by the legacy of their parents and families. But it’s possible to find constructive ways to move forward despite one’s origins.   
+Take activist and social worker Wynona Ward. Born in a small village in Vermont, she grew up with a  sexually and physically abusive father. Ward didn’t tell anyone about this abuse, but worked hard to get ahead in school and escape her hometown.
+She got married as a 17-year-old and began working as a truck driver with her husband. But while she’d worked hard to free herself, others in her family struggled to do so. For example, Ward discovered that one of her brothers was now abusing his own children.
+She decided that something had to change. She went back to university in Vermont and studied in every moment of her free time. After a lot of hard work, Ward managed to get a degree in law. With some financial aid, she founded Have Justice Will Travel, a traveling legal service for families in the countryside who were dealing with domestic abuse problems.
+Ward’s actions show us an important mind-set of mentally strong people. Coming to terms with the past doesn’t mean acting as if certain things never happened; you must accept and forgive the past so that you can build on it in the present. For instance, Wynona Ward didn’t run from her past, or wipe it from her memory. Instead, she used her experience as the basis for making the world a better place.
+Coming to grips with your past can be tough, though, and moving forward doesn’t just happen. To be successful, you need to start by taking concrete steps. First of all, you have to give yourself permission to enjoy your life, despite what might have happened in the past.
+Then, you have to be wary of attitudes that keep you from experiencing change. For example, if you notice you are avoiding meeting up with new people because your last crush hurt you, think about changing that attitude. Your heartbreak in the past is no reason not to keep looking for true love.
+
+# Mentally strong people avoid repeating the same mistakes, and this requires self-discipline.
+If you learn to apply the lessons you’ve learned in these blinks so far, you’ll be on your way to greater mental strength. But even if you succeed in making some changes, it’s easy to fall back into old habits.
+This is another characteristic of mentally strong people; they study and learn from their mistakes so they don’t repeat them in the future.
+When Rowland Macy, for example, launched a dry goods store in a small-town in Massachusetts in the mid-nineteenth century, he made the mistake of choosing a quiet location in the town, and struggled to attract customers a result.
+To drum up interest in his fledgling store, Macy organized a large parade through his town. Unfortunately, on the day of the parade, it rained so hard that nobody turned up. As a result, he had to give up his business.
+But Macy learned from this experience and vowed not to make the same mistake again. The next time he opened a “Macy Dry Goods” store he chose a prime location in downtown New York. It was a massive hit. Macy’s became one of the biggest chain stores in the world and still holds a parade every year – just in the fall, when the risk of sudden storms is smaller.  
+But how can you use this strength in your own life?
+To learn from your mistakes the next time something goes wrong, the author suggests you take some time to ask yourself the following questions: What did I do wrong? What could I have done better? And what can I do differently next time around?
+Try to set negative feelings and self-doubt aside and simply answer the questions honestly. By doing this consistently, you’ll have a clear idea of how to act next time.
+Of course, knowing what you need to do differently and actually doing it aren't the same thing. This is why, if you want to put a stop to the bad habits once and for all, you need to practice self-discipline. Here’s a few simple methods to become a more disciplined person.
+
+Keep your eyes on your goal. By picturing how great it will feel once you reach a goal, like how amazing it will feel once you’ve put the finishing touches on your novel, it will be easier to sit down to write on evenings when you feel like just dropping down in front of the TV.
+Make a list of the reasons you don’t want to repeat the mistakes you’ve made in the past. Let’s say you’re trying to lose weight, but you’ve always struggled to keep up your gym visits in the past. Make a list of all the reasons you don’t want to repeat the same mistake. Carry this list with you at all times, and when you feel the urge to just stay at home, take it out and read it to yourself. Before you know it, you’ll be on your way to the gym.
+Restrict yourself and make it harder to make mistakes. Let’s say your goal is to save money for a dream trip, but you always end up spending too much money when you’re out with your friends. Before you leave home for an outing, take a small amount of cash out and leave your credit card at home. That way, you’re less likely to go on a spending spree.
+
+
+# Mentally strong people don’t envy other people’s success but rather seek to collaborate with them.
+Do you feel bad when someone you know becomes successful? If so, you’re not alone. This kind of envy is common.
+A 2013 study by psychologist Mina Cikara found that people not only resent other people’s success, they also take particular pleasure if a person suffering bad luck is a particularly successful person.
+Participants in the study were shown photographs of four different types of people – a student, an elderly person, a drug addict and a wealthy professional – in various situations. Incredibly, they experienced greater pleasure from scenarios where the wealthy professional suffered in some way, like getting soaked by the water from a passing car driving through a puddle, than when any of the four types of people received some good fortune.
+Resentment and envy of success are common human traits, but this doesn't make them healthy. If you want to be more successful, you must learn to overcome your initial envy of other people’s success and harness their power instead.
+The best way to do this is through collaboration.
+Take the example of chocolatier Milton Hershey. One of his employees, H. B. Reese, started building up a rival candy company in the same city while he was still working in Hershey’s chocolate factory.
+Instead of becoming angry or resentful, Hershey surprisingly gave Reese his full support. Reese created his own special candy, the peanut butter cup, and Hershey’s factory provided the milk chocolate for his experiments. The two men continued to collaborate throughout their lives, and after their deaths, the two companies merged.
+If both men had viewed each other’s success with envy, they'd have needlessly fought against each other. Yet, by supporting each other's strengths and ideas, they both built strong and profitable businesses.
+In short, people who enjoy and celebrate other people’s success end up attracting successful people with whom they can collaborate. Ultimately, these competitive partners motivate and inspire each other, leading to great success for all involved.
+
+# Mentally strong people don’t give up easily, and they are self-compassionate about failure.
+We tend to think that success falls from the sky, like Cinderella’s fairy godmother turning her into a princess with the wave of a magic wand. But in the real world, things are rarely like in the fairy tales. Success often comes only after a long road of failure, and that’s why mentally strong people know how to persevere and treat their failures as stepping stones to something greater.
+There is no better example of this than Thomas Edison. He was one of the greatest inventors in history, perhaps most famous for inventing the light bulb, a discovery that completely changed the world. Just imagine, for a second, a world without light bulbs!
+But Edison also invented the electric pen, as well as a ghost machine. If you’ve never heard of these don’t worry – both were complete failures. And they were far from being Edison’s only flops.
+Even so, Edison didn’t consider these attempts to be failures. Instead, he saw them as learning opportunities, chances to experiment with what worked and what didn’t. Each time he failed, he considered himself to be one step closer to succeeding.
+The power of this way of thinking has been demonstrated by research. Studies have shown that work is probably more important than talent when it comes to success.
+For example, people who practice consistently for ten years, never giving up despite constant failures along the way, often end up being better at a given skill than those who at first seemed naturally talented.
+This applied to chess players, athletes, musicians and visual artists. And after 20 years of determined work, even individuals who at first seemed untalented could achieve world-class standards.
+So failure is a part and parcel of success. But, still, no one likes to fail, and most of us still hold onto the notion that failure is almost shameful. The key to overcoming the fear of failure lies in self-compassion and changing the way you think about failure.
+Take a 2012 study, in which students who had failed on a test were given the chance to take it again to improve their scores. Results showed that those students who took a more self-compassionate view of their initial failure, and thus didn’t take it as a massive blow to their self-esteem, studied 25 percent more for the second test and got higher scores than those who were disheartened by their initial failure.
+Thus, it’s important that you learn to be self-compassionate about your failures and mistakes.
+
+# Mentally strong people are comfortable being alone and use meditation to become more resilient.
+When you find yourself alone, with time on your hands, do you immediately switch on the TV or seek some outside activity for distraction?
+Most of us are accustomed to being surrounded by noise all day. What’s more, many of us actively try to maintain these noise levels throughout the day to drown out our internal thoughts and worries. This is not a wise habit.
+Mentally strong people are not afraid of spending time alone. They know that those quiet times when you are attentive to yourself can be a great source of rejuvenation, inspiration and reflection.
+Here’s how to do it yourself.
+Take a quiet moment to think about your life goals and whether you are on track to fulfilling them. It’s also a great time to listen to your feelings and notice if there is stress or negative emotions that need addressing. Finally, use this opportunity to think about new goals and new dreams, and to visualize the life you want to have. To stop yourself from forgetting these important musings, collect them all in a journal.
+Another secret weapon in the mentally strong’s arsenal is meditation. When you’ve become comfortable sitting down alone to confront whatever is spinning around in your head, meditation can help you become more resilient.
+The effects of meditation have been the subject of much research in the last decades, and studies have found that meditation can actually alter the structure of the brain, with positive effects on cognition and emotional regulation.
+Meditation has also been shown to have positive effects on physical ailments, such as breathing difficulties, tumors, insomnia, chronic pain and cardiological problems.
+If you are still in doubt about the powers of meditation over the body, just look at the Dutchman Wim Hof. Also known as the Iceman, Hof has trained his body through meditation to withstand extreme cold. He regularly spends more than an hour bathing in ice and has been halfway up Mount Everest wearing nothing but shorts!
+Luckily, today, meditation is generally recognized as a powerful tool for professionals of all kinds, so you don’t have to worry about being considered odd if you take a break to meditate at work.
+
+# Many people have an entitlement mentality, but strong people concentrate on giving rather than taking.
+Many children grow up with their parents telling them they are brilliant, talented and destined for great things. It’s a natural impulse to want to tell your children nice things – but you’re not doing them any favors by doing so.
+Take the example of Ethan Couch. In 2013, this Texan teenager killed four people while driving under the influence. His lawyers in court actually argued that Couch could not be held accountable for his actions, because he was too privileged and suffered from what they called “affluenza.”
+According to his lawyers, the wealthy, coddling environment Couch grew up in meant that he was not able to take responsibility for his actions. Amazingly, this line of argument worked, and Couch received a probation and rehabilitation sentence, rather than prison time.
+But it isn’t just the wealthy who suffer from a sense of entitlement. It’s increasingly common to hear people tell their failing friends things like “Don’t worry, something better will come your way,” or “You deserve something good to happen to you after all this.”
+The problem with this growing sense of entitlement is that it prevents people from earning things based on actual merit. If you’re constantly focused on what you think you’re owed, why would you work hard to get anything?
+Mentally strong people are different. Instead of expecting the world to shower success and good fortune on them, they concentrate on giving.
+Take the example of the activist Sarah Robinson. Sarah found out that she had a brain tumor when she was in her early twenties. She battled for a year and a half before she eventually succumbed to the disease.
+But during that year and a half, she refused to believe that the world owed her something because she was unlucky enough to have cancer. Instead, she focused on what she could do for others.
+For example, as she spoke with other cancer patients in Maine, she realized that many lived far from the treatment centers and had to drive back and forth for hours every day in order to receive treatment.
+So she founded an overnight house near the medical facilities and funded it with the help of the Rotary Club. Today, although she has passed away, the overnight house is maintained by her family and friends. They undertake a lot of voluntary work to raise the necessary funds and keep “Sarah’s house” running.
+
+# Mentally strong people recognize that achievements take time and that progress isn’t always immediately apparent.
+Do you keep your New Year’s resolutions? Probably not. A 1972 study that looked at whether people succeeded with their New Year’s resolutions or not  found that 25 percent of participants had abandoned their resolutions after 15 weeks. In a similar 1989 study, that number had gone down to only one week!
+The underlying issue is that our goals and expectations are unrealistic. As we never get anywhere near them, we get fed up and give up.
+So how can you ensure you set more realistic expectations? Here are a few simple rules:
+
+First of all, don’t think that change is easy. Accept from the start that reaching your goal will be tough. This is especially important if your goal involves giving up bad habits, like giving up smoking. These habits are often far deeper ingrained in our behavior than we think; you’ll have a greater chance of succeeding if you simply accept that it’s going to be hard.
+Secondly, don’t create a fixed deadline to reach your goal. It’s good to have an approximate idea of when you would like to get your result, but don’t make it an all-or-nothing situation. Some programs advocate losing a bad habit in 21 days, but if it takes you 101 days, that’s also fine. All that matters is picking a rough time scale that you feel comfortable with.
+Finally, don’t think achieving your goal will make your life suddenly wonderful. Losing ten pounds, often amounts to just that – some weight loss. Don’t expect to also get a promotion and a new lover.
+
+By following these steps, it will be easier for you to stick to your plan in the long haul without being disappointed.
+This brings us to another feature of the mentally strong, namely that they recognize that progress is not always immediately recognizable. Sometimes improvements are well-hidden, and sometimes they even look like steps backward.
+For example, the author once worked with parents of young children, teaching them how to manage temper tantrums. The standard advice was to studiously ignore the kids when they threw themselves on the ground and started howling and kicking.
+Many parents initially complained. They said the tantrums were getting worse, as the children were screaming louder, making more of a fuss. Of course, the children were simply upping the ante. Angry at being ignored, they were trying their best to get their parents to cave in to their will. But if the parents persisted in ignoring them, the tantrums inevitably improved.
+What this example shows is that it’s important to be patient, stick to your goal and keep working at it, even when you’re not seeing any progress at a given moment.
+
+# Final summary
+The key message in these blinks:
+To increase your mental strength and get more out of life, you should:
+1. Refrain from feeling sorry for yourself.
+2. Never give your power away to others.
+3. Embrace change.
+4. Avoid fretting about things you can’t control.
+5. Stop worrying about pleasing everyone.
+6. Never be afraid of taking risks, but be clever about which risks you take.
+7. Resist the urge to dwell on the past.
+8. Make sure to never make the same mistake twice.
+9. Never be resentful of other people’s success.
+10. Keep at it and never give up after an initial failure.
+11. Face your fears of being alone and overcome them.
+12. Be on your guard for feelings of entitlement.
+13. Never expect immediate results and be patient.
+ 
+Actionable advice:
+Become your own mental strength coach.
+Now that we’ve been through the 13 things the mentally strong refrain from doing, let’s look at how you can put what you’ve learned into practice. Quite simply, it’s not enough to just read these blinks – you need to try these methods out in real life. Starting today, think of yourself as your own mental strength coach and, on a daily basis, do the following:
+
+Monitor how you’re behaving. Are you shying away from daunting change? Are you repeating the same mistakes? If so, come up with strategies for how to change and use what you’ve learned in these blinks.
+Pay close attention to your feelings. Are you feeling sorry for yourself? Do you resent others for their success? If so, take a moment to reflect on these feelings and try to let them go, replacing them with more positive feelings.
+Examine your thoughts. Are you fretting over things you can’t control? Are your expectations unrealistic? If so, try to replace them with more productive thoughts.  
+
+If you keep this up, you’ll quickly be on your way to greater mental strength.
+Got feedback?
+We’d sure love to hear what you think about our content! Just drop an email to [email protected] with the title of this book as the subject line and share your thoughts!
+Suggested further reading: How to Stop Worrying and Start Living by Dale Carnegie
+How to Stop Worrying and Start Living (1948) is a self-help classic that outlines clearly why worrying is bad for you and what you can do about it. With tools and techniques to put to action, as well as a wealth of examples and anecdotes to back up its recommendations, How to Stop Worrying and Start Living can help you worry less today.
+
