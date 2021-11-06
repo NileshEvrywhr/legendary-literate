@@ -1,0 +1,195 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="description" content="by James Gleick" />
+    <title>Chaos</title>
+    <style>
+      html, body {
+        margin: 0;
+        padding: 3% ;
+        font-family: 'Lato';
+        font-weight: 500;
+        font-size: 12px;
+        background: #f2efe9;
+        -webkit-print-color-adjust: exact;
+        box-sizing: border-box;
+      }
+
+      .page {
+        position: relative;
+        height: 90mm;
+        width: 50mm;
+        display: block;
+        background: #f2efe9;
+        page-break-after: always;
+        margin: 10px;
+        overflow: hidden;
+      }
+
+      @media print {
+        body {
+          background: #f2efe9;
+        }
+
+        .page {
+          margin: 0;
+          height: 100%;
+          width: 100%;
+        }
+      }
+
+      .page.first {
+        border-left: 5px solid green;
+      }
+
+      .bottom {
+        position: absolute;
+        left: 5mm;
+        right: 5mm;
+        bottom: 5mm;
+      }
+
+      .group {
+        margin-top: 3mm;
+        page-break-inside: avoid;
+      }
+
+      .line {
+        color: #f2efe9;
+        position: relative;
+      }
+
+      .center {
+        text-align: center;
+      }
+
+      .logo {
+        position: relative;
+        width: 80%;
+        left: 10%;
+        top: 15%;
+      }
+
+    </style>
+</head>
+<body>
+    <div class="page">
+        <h1 class="center">Chaos</h1>
+    </div>
+
+        <h1 id="whats-in-it-for-me-discover-the-order-hiding-beneath-the-chaos-of-life">What’s in it for me? Discover the order hiding beneath the chaos of life.</h1>
+<p>If it were up to physicists, the world would run like clockwork: regularly and predictably, according to a few simple rules. And for a long time, they studied the world as if it did. Any signs of randomness and disorder in their data were dismissed as flukes.
+But in the 1970s, a handful of scientists decided to take these flukes seriously. Employing new computer technology, they found chaotic behavior everywhere: in weather patterns, the irregular drip of a faucet, in the rhythm of our hearts. Then, they realized something exciting: there was a strange order hiding behind the chaos.
+These blinks tell the story of how the new field of chaos theory revolutionized science – and explain why chaos might be the ordering principle of life.
+In these blinks, you’ll learn</p>
+<p>why we may blame a butterfly in Peking for a storm in New York;
+why the coast of Britain is infinitely long; and
+how to give a mosquito jet lag.</p>
+<h1 id="meteorologist-edward-lorenz-became-the-intellectual-father-of-chaos-theory-after-discovering-the-unpredictability-of-weather">Meteorologist Edward Lorenz became the intellectual father of chaos theory after discovering the unpredictability of weather.</h1>
+<p>How much do you trust the weather forecast?
+In the 1950s, scientists were highly optimistic about the possibilities of predicting – even manipulating – the weather. This hope lay in new computer technology.
+Of course, they knew that it was hard to get perfect measurements on something as complicated as the weather. But they thought that with good enough data and a lot of computer power, it would be possible to calculate the weather for months ahead – at least roughly.
+They’d no idea how fragile, unstable, and chaotic physical systems like the Earth’s weather really are. It took a mathematically-minded meteorologist to demonstrate this.
+Here’s the key message: Meteorologist Edward Lorenz became the intellectual father of chaos theory after discovering the unpredictability of weather.
+In 1960, Edward Lorenz began running a weather simulation on his brand new computer. He wanted to study how weather patterns change over time. And he stumbled on something deeply unsettling.
+Lorenz’s weather simulation was pretty simple – it didn’t even have clouds. Conditions like temperature and airstream were represented by numbers. To study how they behaved over time, Lorenz would pick one of those variables and print out a graph that plotted its fluctuations.
+One day in 1961, he wanted to rerun a simulation from the day before. But he decided to start in the middle of the simulation, typing in the numbers from the previous printout by hand.
+At the beginning, the second simulation behaved just like the first. But then, the variables’ behavior started deviating. As simulated time went on, they got more and more out of sync. Finally, the motion of the second graph looked totally different from the first.
+What caused this massive incongruity? Lorenz had typed in the numbers from the previous simulation only up to the third decimal point. For airstream, for instance, he’d typed in .506. But the computer’s calculations actually ran up to the sixth decimal point: .506127. Somehow, this tiny difference was enough to throw the weather prediction completely off the previous track.
+Lorenz was shocked. Like other scientists at the time, he believed that small fluctuations didn’t have big effects on large-scale systems like the weather. Instead, his mistake revealed how unstable, unpredictable, and chaotic these systems really could be.
+Lorenz dubbed it the butterfly effect. This means systems like our weather are so sensitive to small disturbances that a butterfly flapping its wings in Beijing today could be responsible for a raging storm next month in New York. In science-speak, this is also known as “sensitive dependence on initial conditions” – and it became the cornerstone of the new field of chaos theory.</p>
+<h1 id="simple-nonlinear-systems-can-produce-incredibly-complex-behavior">Simple nonlinear systems can produce incredibly complex behavior.</h1>
+<p>Sensitive dependence on initial conditions is everywhere. If you’ve ever missed a bus, which made you miss a flight, which ruined an entire business trip, then you know: tiny errors can snowball into complete chaos.
+The butterfly effect is one reason why Lorenz was fascinated by the weather. It means that even if we covered the earth in weather sensors a foot apart, we still couldn’t calculate the weather for a few weeks ahead. A second fascinating feature of the weather is that it’s aperiodic – it’s almost cyclical, but it never quite repeats itself.
+In fact, Lorenz’s genius didn’t lie in revealing the chaos in our world – but in revealing the almost-orderly patterns in the chaos.
+This is the key message: Simple nonlinear systems can produce incredibly complex behavior.
+After discovering the chaos of weather, Lorenz tried to find physical systems that behave in similar ways. One of the most famous chaotic systems he discovered was a simple waterwheel, rotating as the flow of water fills its buckets. Lorenz found that if the flow of water is fast enough, the buckets stop filling completely, and the motion of the wheel can slow or even reverse. At very fast speeds, the motion becomes chaotic.
+Both our weather and the waterwheel are nonlinear dynamical systems. But what does that mean?
+When Lorenz studied the math behind such systems, he found that it took him just three simple, nonlinear equations to produce chaotic behavior. A nonlinear equation is one in which the output value isn’t proportional to the input value. So, a nonlinear dynamical system is a system in which tiny fluctuations can have arbitrarily outsized effects.
+Many nonlinear dynamical systems in the real world are both damped and driven. Imagine a playground swing that you accelerate by giving it the same push every time, but it’s also slowed by friction. Common sense tells us that the motion of the swing should quickly find its equilibrium – swinging at the same height and speed every time. But that’s not the case. In fact, most damped-and-driven systems never find an equilibrium.
+When Lorenz plotted his three equations as a graph, he found that they produced a characteristic shape: a strange, three-dimensional double spiral that looks like a pair of butterfly wings. Its motions were almost cyclical, but never quite repeated themselves – just like the weather, the waterwheel, or a playground swing.
+Lorenz’s discovery that a few simple equations can produce intricate patterns of chaos was a revolution. And like all revolutions, it was met with backlash by people wedded to the status quo.</p>
+<h1 id="in-the-1970s-physicists-and-mathematicians-began-studying-nonlinear-systems-in-earnest">In the 1970s, physicists and mathematicians began studying nonlinear systems in earnest.</h1>
+<p>Scientists like to have their expectations thwarted about as much as the rest of us. And they certainly weren’t expecting that some of the most fundamental physical systems in our world behave in completely chaotic, unpredictable ways. So naturally, most of them weren’t too thrilled about this new chaos theory embraced by younger, freethinking scientists from the 1970s onwards.
+It sounded unscientific, unconventional, and most importantly, it seemed to complicate – even contradict – what they thought they knew about the universe. Up until Lorenz, most scientists had stuck to describing the world in linear ways.
+When Galileo studied pendulums, for example, he was so convinced of a linear theory of motion that he saw a regularity that wasn’t actually there.
+The key message? In the 1970s, physicists and mathematicians began studying nonlinear systems in earnest.
+Galileo thought that no matter how wildly a pendulum swings, it always keeps the same time. If it swings narrowly, it swings slowly. If it swings more widely, it swings just that much faster. But in reality, friction, air resistance, and the changing angle of a swinging pendulum shift it into a nonlinear dynamical system whose motion can easily become chaotic.
+In fact, pendulums became one of the most popular objects for scientists interested in chaos to study.
+Mathematician Stephen Smale at UC Berkeley was one of the first people to take chaos seriously – and he hadn’t even heard about Lorenz’s work. Smale had a background in topology, a field of mathematics that studies which properties stay the same when geometric shapes are deformed, twisted, and stretched.
+His geometric approach helped him visualize chaotic systems. Smale studied the behavior of oscillating electronic circuits, in particular the Van der Pol oscillator. He conceived of a powerful visual analogy for the behavior of this nonlinear system, making use of his background in topology. He imagined a rectangle in a three-dimensional space that is squished, stretched, and folded in the shape of a horseshoe. You can then put another rectangle around the horseshoe, and repeat that process as many times as you want. No matter which two nearby points of the rectangle you pick, you can never guess where they end up on the horseshoe map.
+To his surprise, Smale also found that chaos and instability aren’t the same. He found that nonlinear systems can be much more stable in their average behavior than linear systems. Even in the face of outside noise and disturbances, a nonlinear system soon returns to its same old chaotic pattern.
+Smale only found out about Lorenz’s work later, and he was surprised that a meteorologist had anticipated the mathematics of chaos ten years before him. When people began connecting Lorenz’s and Smale’s work, it paved the way for a new generation of chaos specialists who were fascinated by the richness and complexity that simple, deterministic systems can create.</p>
+<h1 id="animal-populations-behave-like-nonlinear-dynamical-systems">Animal populations behave like nonlinear dynamical systems.</h1>
+<p>Nonlinear dynamical systems aren’t just a pet project of mathematicians and physicists. As Lorenz showed when he studied the weather, nonlinear systems are fundamental to nature.
+Animal populations, for example, change in a nonlinear, dynamical way. The subfield of biology that studies how they behave over time is called ecology – and it was one of the first fields to connect its findings to chaos theory.
+The basic math of population growth is simple. The more animals you have, the more offspring they can produce. But for several reasons, animal populations don’t just grow and grow. Factor in limited food resources, for example, and the math gets much more complicated. At the beginning, a small population might grow rapidly and exponentially. But the bigger it gets, the slower it grows. Sometimes, unpredictably, it collapses completely. In ecology and economy, this is known as a “boom-and-bust cycle.”
+The key message here? Animal populations behave like nonlinear dynamical systems.
+Let’s consider how an ecologist might study changes to the population of gypsy moths over time. In the real world this happens smoothly, one moth at a time. The mathematical equations that could describe such a smooth, nonlinear change are called differential equations. But differential equations are complicated to calculate with, and most biologists don’t like math to begin with. So they use difference equations, which measure the change in little jumps – year by year, for instance.
+A realistic difference equation that describes how the gypsy moth population changes year by year needs to restrain growth after a certain point. The simplest equation that fulfills this criterion is a logistic differential equation. For a long time, biologists believed that this type of equation would always reach an equilibrium – just as the animal population would.
+Ecologist Robert May experimented with a logistic differential equation when he made a startling discovery. May found that if he ramped up the level of “boom-and-bustiness” of his fictional animal population, it would start behaving strangely. First, the periodic cycles of the population would double in time, then double again – looping into so-called period-doubling bifurcations. Eventually, the whole system would turn chaotic.
+May turned to his mathematician friend James Yorke to find an explanation. In his seminal paper “Period Three Implies Chaos,” Yorke demonstrated that when a system starts breaking up into period-doubling bifurcations, it&#39;s only a matter of degree before chaos emerges.
+He thought that scientists tended to overlook such bifurcations because they didn’t want to see the chaos lurking in the systems they studied. May, who later applied his interest in chaos theory to the study of epidemics, was one of the first scientists to take them seriously.</p>
+<h1 id="mandelbrots-fractal-geometry-revealed-the-infinitely-intricate-patterns-of-complex-dynamical-systems">Mandelbrot&#39;s fractal geometry revealed the infinitely intricate patterns of complex dynamical systems</h1>
+<p>Throughout his life, the mathematician and polymath Benoit Mandelbrot ended up in places where he wasn’t welcome. First, as a child, he fled with his family from Poland to France in the 1930s. After the war, he felt stifled by the intellectual climate at the École Polytechnique, where he studied mathematics. At the time, pure math was all the rage, and his colleagues didn’t appreciate his visual approach to mathematical problems. So Mandelbrot escaped to the US, where he found work at the IBM research center in New York.
+In his research, too, Mandelbrot often chose unfriendly territory. One of his first interests at IBM was studying economic patterns, like income distribution and price changes. When he studied fluctuations in cotton prices in the nineteenth century, he got a first glimpse of the discovery that would make him famous: the intricately nested nature of our universe.
+Here’s the key message: Mandelbrot&#39;s fractal geometry revealed the infinitely intricate patterns of complex dynamical systems.
+Economists at the time believed that prices tended to fluctuate randomly over the short term, but responded to real forces in the economy over the long term – like economic policy and new technology. Even more, they thought that most prices should converge around an average. But the cotton prices of the last century clearly hadn’t done that. Using the latest computers that IBM had to offer, Mandelbrot investigated. And he found something interesting: the fluctuations for daily prices matched the fluctuations for monthly prices, with small trends nested inside bigger trends, and so on.
+Mandelbrot was fascinated by this symmetry of scale, and he soon discovered it in other structures – both abstract mathematical ones and real-world phenomena. For instance, he began to notice how many structures in nature, like mountains and clouds, can be broken up into smaller and smaller versions of themselves. Mandelbrot called these types of structures self-similar, or fractal.
+To illustrate his discovery, Mandelbrot liked to ask a simple question: How long is the coast of Britain?
+If you look at a map, measure the coastline with a ruler, and then bring the measurement up to scale, you’ll easily have an answer to this question. But did you really measure all the nooks and crannies of the coastline? Probably not. For that, you’d have to walk along the entire coast and measure each of its twists and turns. But wait – can you the outline of each rock and pebble that makes up the coastline? As the units of measurements become smaller, you’ll find the coastline grows longer. As your units of measurements become smaller – down to an atom, say – Britain&#39;s coastline length approaches infinity.
+Mandelbrot’s new fractal geometry accounts for this infinity – the rugged, scattered, and fragmented nature of our world. Because fractal geometry was so elegant and beautiful, Mandelbrot became somewhat of a superstar in the academic community. His infinitely intricate geometrical structures became the visual representation of chaos theory.</p>
+<h1 id="strange-attractors-helped-physicists-understand-the-complicated-motions-of-turbulence">Strange attractors helped physicists understand the complicated motions of turbulence.</h1>
+<p>On his deathbed, quantum physicist Werner Heisenberg swore to ask God two questions about physics: Why relativity? And, why turbulence? “I really think He may have an answer to the first question,” Heisenberg joked.
+Of all the longstanding problems in physics, turbulence is among the thorniest. It arises when a smooth flow of a gas or liquid suddenly turns messy, breaking up into whorls and eddies. Turbulence is everywhere, and poses a big problem for engineers. When the smoke ring of a cigarette rises steadily before breaking up into little curls, we might watch in fascination. But when the same thing happens beneath the wings of an airplane we’re traveling in, we’re more likely to panic.
+For a long time, studying fluid dynamics seemed such a hopeless task that physicists left it to the engineers grappling with its practical implications. But chaos theory promised to shed new light on fluid dynamics.
+Here’s the key message: Strange attractors helped physicists understand the complicated motions of turbulence.
+Before chaos theory, the most important theory of turbulence in physics came from Russian scientist Lev D. Landau, who proposed that any liquid or gas is formed from a multitude of individual particles whose motion depends on the motion of its neighboring particles. In a smooth flow, particles have few degrees of freedom. But when a flow turns turbulent, particles gain more and more degrees of freedom, creating ever-more turbulence.
+In 1973, Landau’s US colleagues Harry Swinney and Jerry Gollub teamed up to prove that turbulence builds up in this linear fashion. They chose a simple kind of fluid motion to study in action, building a system of two cylinders, one rotating inside the other, with a liquid flowing in the space between them. At first, the liquid flows smoothly. But as the rotation of the cylinders speeds up, the liquid begins flowing in wavy bands. At even greater speeds, the motion becomes chaotic, and turbulence emerges. The process didn’t look gradual at all. Most importantly, even in turbulence, the flow of the liquid wasn’t uniformly chaotic – regions of smooth flow jostled alongside regions of turbulence.
+Belgian physicist David Ruelle came to the rescue. In the early 1970s, he attended a talk about chaos by Steve Smale, and was working on an alternative to Landau’s theory on fluid motion. In order to visualize the onset of turbulence in dynamical systems, he plotted their motions in phase space. A phase space is an abstract space that tracks all possible states of a system at any point in time, and helps scientists visualize how the system evolves. Some systems have “attractors” in phase space – like a fixed state at which they reach an equilibrium, or dynamic states that they cyclically exhibit.
+What Ruelle discovered is that many nonlinear dynamical systems have what he called “strange attractors.” These systems orbit around certain points in phase space, but never quite in the exact same cycle. After Ruelle published this paper, other scientists began constructing their own strange attractors and finding them in the chaos of nature. Astronomer Michel Hénon, for instance, found that the orbit of stars around the center of “globular clusters” corresponds to a strange attractor.
+Once again, Edward Lorenz had been there first. Remember the endlessly looping pair of butterfly wings that he discovered when plotting his first nonlinear system? The Lorenz attractor was the first strange attractor ever described.</p>
+<h1 id="discovering-the-universal-principles-of-nonlinear-systems-mitchell-feigenbaum-elevated-chaos-theory-to-new-levels-of-credibility">Discovering the universal principles of nonlinear systems, Mitchell Feigenbaum elevated chaos theory to new levels of credibility</h1>
+<p>At the Los Alamos National Laboratory in New Mexico in 1974, staff and police were growing a bit concerned. A disheveled-looking man was walking around the campus at night, chain-smoking and pacing erratically.
+The eccentric turned out to be Mitchell Feigenbaum, a young mathematical physicist on the verge of a mind-boggling discovery.
+Feigenbaum was known as something of a savant-among-savants to his colleagues. He began his foray into chaos theory by studying very simple nonlinear equations of phase transitions – quite similar to the ones ecologist Robert May had studied for animal populations. Like May, Feigenbaum was fascinated by the idea that simple systems can produce incredibly complex behavior; and that some systems never find equilibrium.
+Here’s the key message: Discovering the universal principles of nonlinear systems, Mitchell Feigenbaum elevated chaos theory to new levels of credibility. 
+Feigenbaum was particularly interested in almost intransitive systems. These are nonlinear systems which oscillate around one average state for a long time, but then randomly kick into a completely different average state. Climate scientists, for example, have long painted a picture of a White Earth. If the earth was covered in enough ice and snow, it would reflect the heat from the sun so well that it would settle into a much cooler climate. The White Earth scenario is so plausible that scientists wonder why it hasn’t happened in the earth’s billion-year history.
+Feigenbaum was interested in the boundary between order and chaos at which the shift into a new average state happens. He used a handheld calculator to determine the period-doubling bifurcations of different nonlinear equations. When he typed in the numbers for one of those equations, Feigenbaum noticed an unexpected regularity. The numbers were converging – joining together – geometrically. When Feigenbaum calculated the ratio of convergence for the period-doubling bifurcations of the equation, he got the number 4.6692016090.
+But the really startling discovery came when he calculated the ratio for a different nonlinear equation. He got exactly the same number. He repeated the calculations for all nonlinear equations he could find, and the result was always the same. Even biologist Robert May later remembered encountering this number when studying the nonlinear equations for changing animal populations. In his lab at Los Alamos, Feigenbaum began working frantically on his new theory. After two months of working 22 hours a day, he’d finally outlined the universal principle of the Feigenbaum constants.
+The Feigenbaum constants represented an important new aspect of the emerging field of chaos theory: universality. Up until then, scientists had believed that every nonlinear dynamical system had to be treated on a case-by-case basis. But Feigenbaum showed that there are certain features of nonlinear systems that remain unchanging, and can even be predicted.
+It wasn’t until 1979 that Feigenbaum’s theory was mathematically proved. But the discovery of the Feigenbaum constant was enough to unify the new field of chaos theory, and lend it the credibility that it previously lacked in the eyes of traditional scientists. </p>
+<h1 id="a-group-of-young-mathematicians-at-santa-cruz-used-computer-visuals-and-everyday-phenomena-to-popularize-chaos-theory">A group of young mathematicians at Santa Cruz used computer visuals and everyday phenomena to popularize chaos theory.</h1>
+<p>By 1977, most scientists had heard about a strange new field of physics called chaos theory. The first big chaos conference was held in Como, Italy, that same year. But if you were a young math or physics student interested in chaos, there were still no mentors – let alone professors – to guide you.
+At the new Santa Cruz campus of the University of California, a group of young mathematicians took matters into their own hands. It started with a quiet young graduate student named Robert Stetson Shaw. He’d heard about the Lorenz attractor, and he started playing around by plotting its equations on the big, analog computer on campus. Shaw could adjust the variables of the equations by turning knobs on the computer, and it helped him visualize the sensitive dependence on the initial conditions Lorenz had discovered.
+His work quickly drew an audience, and soon fellow students and mathematicians Doyne Farmer, Norman Packard, and computer expert James P. Crutchfield joined in. They called themselves the Dynamical Systems Collective – though their classmates sometimes referred to them as the Chaos Cabal.
+The key message here is: A group of young mathematicians at Santa Cruz used computer visuals and everyday phenomena to popularize chaos theory.
+The Dynamical Systems Collective filled their computer lab with other plotters, converters, and filters. With all their computers and machines, they could visualize the random motion of nonlinear systems, and find patterns in the chaos. For example, they researched what the specific shape of a strange attractor revealed about the system it described.
+One of their lasting contributions was connecting chaos studies and information theory. Information theory is concerned with the storage and transmission of digital information. Key to information theory is entropy: the concept that our universe, and all physical systems, move toward states of higher disorder. If you pour a bottle of ink into a swimming pool, for instance, you’ll watch the ink spread and dissipate until the water and ink molecules are thoroughly mixed.
+The Dynamical Systems Collective argued that strange attractors are engines of information. They raise the entropy of a system, creating messy, novel, and unpredictable behavior. The collective speculated that this chaotic creation of information could lurk behind our thought processes and the direction of biological evolution.
+But they didn’t just deliver chaos theory to the computer era. They also showed how it applied to everyday phenomena. Sitting in a café together, they liked to ask themselves: Where is the nearest strange attractor? Is a rattling car fender a chaotic system? Does a flag snapping in the wind behave nonlinearly? In one experiment, Robert Shaw showed that even a dripping faucet can create a random, endlessly creative pattern.
+With their everyday examples and cutting-edge computer visuals, the Dynamical Systems Collective propelled chaos theory to the height of its popularity. Scientists from economy, ecology, and meteorology started taking note, and the field exploded.</p>
+<h1 id="nonlinear-dynamical-systems-are-everywhere-in-nature--and-particularly-important-to-our-biology">Nonlinear dynamical systems are everywhere in nature – and particularly important to our biology.</h1>
+<p>Once the idea of chaos had made its way into the scientific mainstream, researchers began discovering nonlinear dynamical systems everywhere around them.
+French physician Albert Libchaber teamed up with an engineer for an experiment meant to prove Feigenbaum’s theory of turbulent fluid motion. Libchaber constructed a tiny box that held liquid helium between two metal plates, which he could heat separately. Creating a few millidegrees of difference in temperature between the plates led the helium to start moving. First, as the warm liquid rose and the cool liquid sunk, the helium fluid organized itself into two rolling cylinders. But as Libchaber turned up the temperature, he observed the familiar pattern of period-doubling bifurcations.
+Libchaber speculated that nature uses nonlinearity as a defense against noise, glitches, and errors. When a linear system receives a slight nudge, it stays off track forever. When a nonlinear system receives the same nudge, it somehow finds its way back to its normal state.
+This is the key message: Nonlinear dynamical systems are everywhere in nature – and particularly important to our biology.
+In the 1980s, physicians began confirming Libchaber’s hunch about chaos and biology.
+At a big conference on chaos in medicine, physicist Bernardo Huberman presented a nonlinear model of eye movement in patients with schizophrenia. People with this diagnosis, and sometimes their relatives, have trouble tracking objects like a swinging pendulum with their eyes. Instead of moving smoothly with the motion, their eyes jump around erratically, never quite hitting the target.
+Physicians like to think about the body as a collection of various organs, all having their own microstructure and function. Huberman’s talk showed that the universal laws of motion apply in the human body just as they do everywhere else. Patterns of random motion, nonlinear oscillation, and bifurcating rhythms can be found in biological structures, too.
+Consider the heart. Our heartbeat is periodic, and any irregularities in beat can be very dangerous. One such irregularity is called ventricular fibrillation. It happens when the coordinated wave of contraction that underlies our heartbeat falters, and individual muscle cells and pacemaking nodes are thrown out of sync. Instead of contracting and relaxing in a steady pattern, the heart writhes like a bag of worms. Heart fibrillation causes thousands of sudden deaths every year.
+Today, physicians know that the heart is a nonlinear dynamical system whose motion can descend into a chaotic state if given a precisely wrong nudge. A small impulse at precisely the wrong time – whether from an internal malfunction or an external shock – can push it across the bifurcation line and throw it into fibrillation. Luckily for us, a small shock can also help get a fibrillating heart back on track. That’s precisely how doctors use defibrillators – they give the heart a small electrical jolt to return it to its normal oscillating rhythm.
+Today, physicians have identified more dynamical diseases such as breathing disorders, a form of leukemia, and maybe even schizophrenia.
+“God does not play dice with the universe,” Einstein once famously claimed. The findings of chaos theory moved physicist Joseph Ford to refute him: God does indeed play dice – but they’re loaded dice. The goal of modern physics, Ford argued, was “to find out by what rules were they loaded.”</p>
+<h1 id="final-summary">Final summary</h1>
+<p>The key message in these blinks is that:
+Beginning with Edward Lorenz’s weather simulations in the 1960s, scientists discovered the chaos hiding in simple physical systems. To their astonishment, they found that simple laws can produce complex, unpredictable, and chaotic behavior. Such nonlinear dynamical systems are everywhere in our world – from the weather to animal populations to our heartbeat. But the chaos is never directionless. Mathematicians like Benoit Mandelbrot and physicists like Mitchell Feigenbaum showed that there’s a strange, beautiful order to the chaos of our world.
+Actionable Advice:
+Give the chaos game a try.
+The chaos game was invented by British mathematician Michael Barnsley to illustrate the idea that simple laws can create intricate patterns of chaos. You just need a coin, a piece of paper, and a pen. Start anywhere on the piece of paper. Then make a rule for head or tail, such as “for head, move 25 percent closer to the center,” or “for tail, move two inches south.” Now start flipping the coin and mark each new point on the paper. You’ll find that the chaos game doesn’t produce a random scattering of points – it actually starts revealing a distinct shape. Because even with random processes, there’s an order to the chaos.</p>
+
+        <div class="chapter-divider"></div>
+
+</body>
+</html>
