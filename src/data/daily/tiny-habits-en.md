@@ -1,0 +1,111 @@
+---
+title: "Tiny Habits"
+author: "by BJ Fogg"
+time: 13
+synopsis: "Tiny Habits (2019) is a meditation on the virtues of not biting off more than you can chew. If you want to make positive changes stick, behavioral analyst BJ Fogg argues, you have to think small. Want to get in shape? Start with two pushups a day. Want to become more mindful? Take a yoga breath every time you close your car door. These “tiny habits” set the bar low, which means it’s easier to incorporate them into your existing routine. Over time, however, they rewire your brain and make virtuous habits as automatic as brewing a cup of coffee in the morning."
+aboutAuthor: "BJ Fogg is an expert on persuasive technologies and the way interactive computing products and software influence our behavior. The founder of the Behavior Design Lab at Stanford University, Fogg uses his scientific expertise to help industry innovators get a handle on how human behavior really works. Tiny Habits is his fifth book. "
+description: "by BJ Fogg"
+layout: default.hbs
+---
+
+# What’s in it for me? Transform your life with tiny habits.
+Every year, millions of people resolve to make positive changes in their lives. We decide to eat healthier, exercise more, and get more sleep. For a time, we work out, swap vegetables for fries, and make sure we’re tucked in bed by 11:00 p.m. And life feels great. 
+But then something happens. As the weeks go by, these new habits start slipping. We miss a day, then a week, then another. Soon enough, we’re back to square one. Why, we ask ourselves, is it so hard to make lasting changes to our day-to-day life? 
+Stanford-based behavioral expert BJ Fogg has an answer: we simply take on too much at a time. So rather than taking it slow with, say, a new 10-minute fitness routine at home, we start out with a grueling daily 2-hour gym regimen. 
+The problem with this approach is that we’re upending our life for the change. And once that initial enthusiasm ebbs and our body begins protesting, motivation plummets and that new gym membership becomes little more than a guilty reminder of failure. 
+But it doesn’t have to be this way. In these blinks, we’ll explore Fogg’s alternative – creating sustainable change, one “tiny habit” at a time. 
+Along the way, you’ll learn 
+
+why motivation and willpower alone don’t guarantee success;
+how prompts trigger both good and bad habits; and 
+why it’s so important to “anchor” new behaviors in existing routines. 
+
+
+# Creating positive change can be easy, but it requires a new approach. 
+Everyone wants to make changes. Some folks strive to lead healthier lives and get in shape; others focus on becoming more productive or finding outlets for their creativity. But the stream of media reports on rising obesity levels, sleeplessness, and job dissatisfaction show that something is wrong. They suggest there’s a sizable gap between what we want to do and what we actually do. Typically, we believe that this disconnect is due to a lack of willpower on our part. But that’s not true. 
+So here’s the key message in this blink: Creating positive change can be easy, but it requires a new approach. 
+If you’ve ever failed at introducing a positive new habit into your life, there’s a good chance you blamed yourself – if only you were more disciplined and motivated, you could’ve done it, right?
+Well, not necessarily. As we’ll see later on, there’s little evidence to support the idea that motivation is the sole key to changing behavior. This means that the real culprit isn’t you – it’s your approach to change. 
+Think of it this way: if you try to assemble a flat-pack chest of drawers, but find that the instructions are wrong and key parts are missing, you’re going to fail. It’ll be frustrating, but of course you won’t blame yourself. No – you’ll call the manufacturer and demand a refund. But when it comes to self-improvement, we let the “manufacturer” off the hook. 
+That needs to change. How? Try a different, two-step approach.
+First off, stop blaming yourself. If you’ve found it hard to change in the past, you’ve probably been doing it wrong. And the reason is simple: years of well-meaning but unscientific advice. Change can be easy when you understand how human behavior actually works, and that’s something we’ll dig into in these blinks.
+Second, you need to take your aspirations – say, winning a lifelong struggle with obesity, or saving enough for an early retirement – and break them down into manageable, bite-sized chunks. 
+This methodology produces sustainable change. And it’s not just a theory. The author’s Stanford Behavior Design Lab has researched, road-tested, and refined this approach over the years, with over 40,000 people.
+Ready? Great – let’s dive in! 
+
+# If you want meaningful long-term change, start small. 
+Can you imagine cooking a healthy, balanced meal each night? How about also writing a daily entry in a gratitude journal and going out for a run every morning? If the idea of adopting multiple new habits like these seems difficult, there’s help at hand. 
+Here’s the key message in this blink: If you want meaningful long-term change, start small. 
+Let’s kick things off by dismantling a common misconception – the Information-Action Fallacy. This is the notion that if you just give people the right facts, they will change their attitudes and behaviors. While it’s a neat theory, it unfortunately doesn’t really hold water in the real world; mere facts just aren’t enough.
+So what does drive behavioral change? Well, the author has found three answers in his research into habit formation: epiphanies, environmental changes, and tiny tweaks to existing habits. Let’s look at each of these in turn.
+Epiphanies, meaning sudden revelations, are impossible to consciously bring about – unless you possess some kind of magical powers. And environmental changes are often beyond your control; after all, you can’t make all of your friends take up yoga to support you in your new habit. 
+That leaves so-called tiny habits. These are small actions that take less than a minute to complete, like flossing just one tooth. The idea is that starting small makes it easier to complete the task. And the more often you do that, the better you’ll feel. This creates a feedback loop that, over time, “wires in” new habits. And most importantly, a tiny habit is something you can start doing right now.  
+In the following blinks, we won’t be looking at specific habits. Instead, we’ll be exploring a method that will help you make any habit stick. But before we get to that, let’s learn about one of the author’s tiny habits, so you can get an idea of how they work in practice. 
+He calls it the Maui Habit – a reference to the Hawaiian island where he first learned it. Every morning, as he puts his feet on the floor for the first time, he repeats the same phrase: “It’s going to be a great day.” And as he says this, he tries to summon up feelings of optimism and positivity. Over time, this mantra has become an automatic reflex. Even if he’s sure the day ahead is going to be difficult, he’ll still say, “It’s going to be a great day – somehow.” 
+For him, it has been a small but life-changing hack. Because no matter how hard things get, the door to having a good day is always slightly ajar. 
+
+# Three key variables drive human behavior – motivation, ability, and prompts. 
+You probably already know that to change your life, you have to change your behavior. What you might not know is that there are only a couple of factors that determine whether or not you’ll succeed. 
+The key message in this blink: Three key variables drive human behavior – motivation, ability, and prompts. 
+When you really get down to it, all behaviors are pretty similar. Whether it’s making coffee, showering, or brushing your teeth, they arise from the same three factors. First, there’s motivation, meaning your desire to do something. Second, there is ability, or your capacity to do that thing. Third, there are prompts, which are the stimuli that trigger you to do it. Now, let’s look at an example of how these three factors work in real life.
+In 2010, the American Red Cross raised $21 million in just seven days to help the victims of a devastating earthquake in Haiti. How did the charity convince people to donate so generously? Well, all three factors came into play. Together, they triggered the desired behavior – giving money.
+The earthquake’s consequences for Haiti were well-publicized and heart-wrenching, so motivation to help was high. Also, donating was very easy. All you had to do was reply to an SMS you received. This meant that people had the ability to give money without even having to fetch their credit cards. The author, for example, donated while working out at the gym. Lastly, the SMS prompt was a great way of grabbing people’s attention and encouraging them to donate right then and there. 
+When all three variables coincide, behavior becomes much more likely. Sure, motivation alone occasionally inspires people to do extraordinary things – like mothers to lift cars to save their children. But generally, people’s motivation levels aren’t that high, which is why they’ll only take actions that are comfortably within their abilities. And even that only happens when there’s a clear prompt.
+Take a habit that many of us would like to drop: checking our social media accounts first thing in the morning. We end up doing it because all three reasons come into play. For one, it’s enjoyable, which is motivating. Second, it’s easy, because the phone, after all, is already in our hands. And last, why is it there? Because smartphones are also alarms, which is what prompts us to pick them up in the first place.
+This all means that the easier a behavior is, the more likely you are to do it. And as you'll discover in the next couple of blinks, this insight will help you make unwanted habits less likely and desired habits more likely.
+
+# Motivation may suffice for one-off feats, but it’s not enough for sustained change.
+Did you know that over 100 million people enroll in online courses every year, but just 10 percent of them graduate? The other 90 percent drop out. Why? For the same reason that people accumulate unused gym passes in their wallets and dusty vegetable juicers in their basements. They got caught in a common human mind trap: they overestimated the power of motivation alone. 
+And that’s the key message here: Motivation may suffice for one-off feats, but it’s not enough for sustained change.
+Motivation can move mountains. It can inspire out-of-shape travelers to sprint miles just to catch soon-departing planes and trains. It can make an alcoholic attend his first AA meeting and a lifelong office worker reinvent herself as a trapeze artist. But here’s the thing about these big, one-off spikes of motivation: they’re perfect for doing hard things once.
+Sustainable change, however, means doing the same things day in, day out. And that’s something many people forget. Instead of concentrating on what they can do right now, they focus on aspirations. These are long-term goals like reducing your screen time, being more patient with your children, or losing 12 percent of your body fat. 
+Aspirations are abstract outcomes; they tell you about the results you’re trying to achieve, not how you’re going to achieve them. And motivation alone won’t do the trick. Imagine someone offering you a million dollars if you can cut your blood glucose level by 10 percent right now. It doesn’t matter how motivated you are – it’s an impossible task, for the same reason that you can’t suddenly get better sleep or lose 10 pounds before dinner. 
+Behavior is what bridges this gap between the present moment and the desirable future outcome. Let’s take an everyday example – saving – to see how this works. 
+Most banks advise you to keep an emergency fund in case, say, your roof starts to leak or your car breaks down. Having some extra money to cover these risks is a sound aspiration, but how do you get there? Well, you probably can’t just conjure up and save $500 at this very moment. But you can adopt behaviors that will help you do that. For example, you could call your cable company right now and scale your service down to the lowest level. Or you could empty your pockets and put that change in a jar for emergency funds. 
+Behaviors, in other words, bring about change because you can do them immediately.
+
+# The easier a habit is, the higher the chances that you’ll adopt it. 
+When Instagram launched back in 2010, its founders already knew that people were motivated to post photos of themselves online. But no one else had focused on the second variable of behavior: ability. And that’s what set Instagram apart. Taking, uploading, and posting a photo took just three clicks. It was remarkably easy, and people loved the platform for it. Within just 18 months, the company had been sold for $1 billion. Today, it’s worth $100 billion! Simplicity pays off.  
+And that’s the key message here: The easier a habit is, the higher the chances that you’ll adopt it. 
+Simplifying desirable behaviors is a great approach to designing tiny habits. And the best way to do this is by looking at what makes the behavior in question hard to do. This will usually come down to one of several factors: time, money, physical capacity, mental energy, and the fit with your current schedule. 
+Imagine you decide to work on your fitness by completing a daily set of 20 pushups. Well, time can’t possibly be an issue – doing pushups doesn’t take all that long. Money? Nope. You can do pushups in your own home for free.
+So what about physical capacity? Right, here’s the first problem! After all, maybe you haven’t done a single pushup in years, so you just don’t possess the upper body strength needed.
+And then there’s your mental energy. Pushups aren’t exactly fun, especially when they’re also a physical struggle, so motivation might be an issue too. 
+With these factors in mind, do you think your pushup regimen is likely to become a habit?
+Not really, right? When your ability to do something is low, you’ll only do it on days when you’re riding the motivation wave. And as we’ve seen, big motivation spikes are good for completing difficult, one-off tasks, but less effective for repeating behaviors again and again. This means you need to focus on ability when designing your tiny habits, and make them as simple as possible.
+So, say your daily target is completing two wall pushups. They’re easy and also build body strength. Doing them doesn’t require much motivation, but they still make you feel good. This lowers the bar for you to take action every day and makes it more likely that this will stick as a habit. 
+As you can see, adopting this lens to troubleshoot new habits helps you find ways to simplify them and wire them into your life. 
+
+# You can design prompts to trigger your own desired behaviors. 
+Wherever you are, you’re surrounded by prompts that trigger specific responses. Whether it’s the rumble of an empty stomach telling you to eat, or the green traffic light that makes you hit the gas, these prompts announce: “Do this behavior now!” This process is often unconscious – you just do something without giving much thought to why. And this automaticity presents a chance to cement positive changes in your life. 
+So what’s the key message here? You can design prompts to trigger your own desired behaviors. 
+Different types of prompts already exist in life, and many are badly designed. Snooze buttons on phones, for example, are frequently bigger than the “alarm off” buttons, making it easier to doze on than to get up. That’s a good example of an ineffective contextual prompt, meaning a prompt in your environment. 
+Then there is the person prompt, meaning something inside you that tells you to perform a behavior. For example, when you need to pee, you feel pressure in your bladder. And that’s a prompt that works every time. Unfortunately, there’s no built-in person prompt to remind you to pick up the dry cleaning, or that it’s your mother’s birthday this weekend.
+But the most effective type of prompt is the action prompt. These are the easiest prompts to hack, which is why they’re a valuable tool to shape tiny habits with.  
+Action prompts are behaviors you already perform, which also prompt you to initiate new behaviors. Take an example from the author. When he decided to work on his fitness, he looked for a reliable prompt that occurs multiple times a day. His solution? Going to the bathroom. And so every time he flushed, he did two pushups. That soon became a rock-solid habit; seven years later, he still does it. Depending on how much water he drinks, he sometimes ends up doing 50 pushups a day! 
+The reason action prompts work is simple. Rather than trying to create new habits from scratch, you’re building on established routines. Boiling water for tea, dropping your kids off at school, hanging up your coat when you get home – any one of these pre-existing behaviors can become a prompt for new ones. Best of all, they don’t require any thought. With a little practice, flushing toilets and boiling kettles become automatic triggers to do pushups, practice mindful breathing, or whatever else you’d like to start doing. 
+So does this mean that you can choose anything as your action prompt? Not quite. In the next blink, you’ll find out what kind of prompts work best for your new habits. 
+
+# When designing your action prompts, consider location, frequency, and theme.
+Like anchors, action prompts stop you from drifting around aimlessly, but you have to be careful where you drop them. The best spots are in routines that you repeat over and over again, day in and day out. These should be the solid rocks among the shifting sandbars of your daily life. And all you need to do now is find them. 
+The key message here is: When designing your action prompts, consider location, frequency, and theme.
+The first thing to think about when you’re designing action prompts is physical location. Does it make sense to use your bathroom as a prompt for pushups, for example? If you work from home like the author, sure. But if you’re in the office all day, you might want to use another prompt. 
+Then there’s frequency. If your tiny habit is something you want to do once a day, choose something that happens once a day. One of the author’s clients wanted to adopt the tiny habit of listing each day’s upcoming tasks in the morning. So she anchored it to her once-a-day routine of dropping her kids off at school, which worked well. On the other hand, if your tiny habit is something that you want to repeat more often, your prompt should be an action you perform multiple times. 
+Finally, the best anchors are thematically linked to desirable behaviors. Say you want to drink a glass of water every morning. As a prompt, you might choose your daily habit of watering the jade plant in your bedroom. The theme here could be “care.” Giving the houseplant water makes it thrive, which is also what you’ll do if you “water yourself.” 
+Brushing your teeth, by contrast, isn’t a good prompt to sweep the garage. Why? Well, neither the theme nor the frequency or location of these two behaviors mesh. This means it’s unlikely that an automatic, habit-forming association between them will form. 
+Sometimes it’s obvious what habits belong with which prompts. If your goal isn’t to keep your garage clean but to floss more consistently, then brushing your teeth is a pretty good prompt. But other habits are harder to figure out. So remember that designing prompts is an experiment. 
+Take it from the author. He tried breathing mindfully for a minute each evening when his head hit the pillow. It was a good anchor, but he wasn’t getting the benefit he hoped for. So instead of the breathing exercise, he decided to use the same prompt for another habit: bringing to mind one thing that he was grateful for. That produced a happy little zing in his brain, telling him he’d found the right prompt for the right tiny habit. 
+The more you play around with forming habits, the better you’ll get at applying the principles we’ve explored in these blinks. When that happens, you’ll begin to feel those happy zings yourself. And that means you’re at least one small step closer to realizing your aspirations. 
+
+# Final summary
+The key message in these blinks:
+Conventional wisdom says that creating positive change is all about willpower. But this is wrong. The best way to change your habits is to start small and avoid biting off more than you can chew. Human behavior is driven both by what we’re motivated to do and what we can do. This means we tend to prefer picking the low-hanging fruit and doing the easy stuff. And that’s the key to designing tiny habits. When you make something simple and easy to do, you’re much more likely to actually do it. 
+Actionable advice:
+Use “starter steps” to keep your new habit alive.
+Taking up new habits is all about shifting your perception. And that takes time. This is why it’s good to start slow. Remember, you don’t want to kill off your new tiny habit before it has had a chance to grow roots. That’s where the starter step can help. This is a small move toward the desired behavior. Say you have the goal of walking 3 miles a day. Your starter step could be simply putting on your walking shoes in the morning. Tell yourself, “I don’t even have to walk, I just need to put my shoes on.” This will make your walking habit seem less daunting, and soon, you may well be walking around the block and beyond.
+Got feedback?
+We’d sure love to hear what you think about our content! Just drop an email to [email protected] with the title of this book as the subject line and share your thoughts!
+What to read next: Atomic Habits, by James Clear
+BJ Fogg isn’t the only champion of tiny habits out there. Like Fogg, James Clear believes that we’ve been sold a false system for change. As he puts it, we don’t rise to the level of our goals – we fall to the level of our systems. Getting the latter right, in other words, is what sets us up for transformative change. And that means starting small. 
+Been bitten by the tiny habit bug? Check out our blinks to Atomic Habits, by James Clear!
+
