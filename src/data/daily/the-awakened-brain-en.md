@@ -1,0 +1,117 @@
+---
+title: "The Awakened Brain"
+author: "by Lisa Miller"
+time: 13
+synopsis: "The Awakened Brain (2021) reveals the science of spirituality. Drawing on Dr. Lisa Miller’s decades of research and her own personal journey, it locates an innate capacity for spirituality in human biology. When engaged, this spiritual awareness can protect against depression, support health, and reveal the deep interconnection between all life."
+aboutAuthor: "Lisa Miller, PhD, is a professor of psychology and spirituality at Columbia University, where she holds joint appointments at Teachers College and the medical school’s department of psychiatry. She’s the best-selling author of The Spiritual Child."
+description: "by Lisa Miller"
+layout: default.hbs
+---
+
+# What’s in it for me? Awaken your innate capacity for spiritual awareness.
+Depression is a growing epidemic. Yet standard approaches to healing aren’t working, leaving people overmedicated and overanalyzed. Typical therapies ask us to relive our pain to understand it, and then build new beliefs and healthier thoughts. But what if this approach is wrong?
+What if depression is a built-in process of human development that emerges at certain life stages? What if it’s actually a calling to engage with a higher consciousness? For the author, Dr. Lisa Miller, this is exactly where decades of scientific research, clinical work, and personal experience have led.
+These blinks explore this science of spirituality and uncover the biological capacity for spiritual awareness that – if you let it – can open you up to brand new ways of seeing the world.
+In these blinks, you’ll discover
+
+that spirituality and depression are two sides of the same coin;
+why spending time in nature can be so healing; and
+how to awaken your brain to spiritual awareness.
+
+
+# Spirituality protects against depression.
+The original challenge to Dr. Lisa Miller’s thinking about traditional psychology came early in her first role out of graduate school.
+It was fall and the in-patient ward where she worked in Manhattan had nothing planned for Yom Kippur, the holiest day in the Jewish calendar. So she organized it herself – a dinner in the ward’s tiny back kitchen.
+The four patients who attended were normally agitated and volatile. But as soon as they started singing and praying together, something changed. They became calm. They smiled and expressed gratitude.
+Miller was shocked. In her entire time there this was the biggest shift in behavior she’d seen, and it hadn’t come from treatment. What was the secret behind this moment? she wondered. And what did it mean for treating depression?
+The key message here is: Spirituality protects against depression.
+The following year, Miller got the chance to better understand what had caused the dramatic change in the patients when she landed a job at Columbia University.
+Every morning, she’d commute to campus and pore over the data from her study. She was researching the factors that increase children’s risk of, and resilience against, depression. 
+The data came from patients at a depression clinic in New Haven tracked over the course of 15 years. Each was matched with a nondepressed control subject who shared similar demographics.
+The research revealed significant patterns, like how poverty and having a mother with depression increase a child’s risk of depression, while affectionate parenting styles protect against it. 
+But she couldn’t stop thinking about the healing shift she’d witnessed at the Yom Kippur dinner, and whether it had something to do with a spiritual experience. How could she measure the relationship between spirituality and depression?
+She looked at the survey data again. If both a mother and her child said that religion or spirituality were important to them, did this protect against child depression? She compared them to mother-child pairs who both said spirituality wasn’t important or gave differing responses.
+The results were astounding. When both a mother and her child had high spirituality, the child was 80 percent protected against depression. In fact, intergenerational transfer of spirituality was by far the strongest protective factor against depression she’d found.
+Miller’s lifelong journey to discover the science of spirituality had begun.
+
+# We have an innate, biological capacity for spiritual development.
+One morning in 1997, Miller was eating breakfast with her husband while skimming an issue of the American Journal of Psychiatry, when an article caught her attention. It was a groundbreaking study by Dr. Kenneth Kendler at the Virginia Commonwealth University, which investigated the relationship between spirituality and mental health in adults.
+Miller was astonished by the results. It was the first scientific study to show that spirituality isn’t only passed down through culture, but also embedded in our genes.
+The key message here is: We have an innate, biological capacity for spiritual development.
+For his research, Kendler had used pairs of twin siblings as subjects. Twin studies are a gold standard in science because they allow researchers to examine which traits are influenced by environment – like culture and upbringing – and which by genetics. They’ve been used, for example, to test the heritability of IQ, various mental illnesses, and personality traits.
+Kendler discovered three important things.
+First, a person could be spiritual but not religious, or vice versa. Spirituality emphasizes a sense of a personal relationship with a higher power, whereas religion involves strict adherence to religious rules and practices.
+Second, the presence of spirituality was found to protect against depression, alcoholism, and negative stressful events, regardless of whether religious devotion was also present.
+Third, the study found that the degree to which a person is spiritual is 29 percent determined by their genes, and 71 percent by their environment. Humans are born with an innate capacity for spirituality. Like singing or other innate capacities, some people have a stronger inclination for spirituality, but it‘s one we all have.
+Miller was fascinated. She wrote to Kendler, saying that if spirituality is an innate capacity then it must also develop and she wanted to understand how. He encouraged her to collaborate with a researcher at Harvard who had nationally representative data on adolescents.
+From those studies, Miller found that in adolescence, the distinction between religion and spirituality isn’t as strong as in adulthood, suggesting that there’s an individuation process where the two become disentangled. And that spirituality is twice as protective against depression for teens than for adults.
+It seems that, whether you’re raised in a faith tradition or not, spirituality has a genetic basis, and part of our development as humans is to find our own personal spiritual beliefs.
+
+# Depression and spirituality are two sides of the same coin.
+Is there a physiological basis for depression? That was the question Dr. Brad Peterson set out to answer when he and his team at Columbia University began comparing brain images of people who were high-risk for depression to those who were low-risk.
+They found that high-risk individuals, that is people with a family history of depression, had different brain structures: the outer surface of their right cortex was up to 28 percent thinner.
+That’s the region responsible for our perception of ourselves and the world around us. In other words, depression is associated with a distorted view of our relationship to the world – a failure to see the bigger picture.
+Miller was fascinated. What if there was also a physiological basis for spirituality?
+The key message here is: Depression and spirituality are two sides of the same coin.
+In order to see where spirituality resides in the brain, Miller, like Peterson, used brain imaging techniques. The results took her breath away. She found that a spiritual brain is thicker and more robust in the same regions that are thinner and weaker in a depressed brain. Spiritual people have a thicker cortex.
+But there was more: people who are both spiritual and high-risk for depression have a thicker cortex than those who are spiritual and low-risk. Why would that be? Her team theorized that people more prone to depression were also more sensitive to the benefits of spirituality. Could some forms of depression be a craving for spiritual awakening?
+To dig deeper, Miller followed up on a study from ten years earlier. The participants were 16 at the time, and now 26. What she found was that the 26-year-olds who had strong personal spirituality were two-and-a-half times more likely to have experienced depression at age 16.
+The results seemed to show that spirituality is catalyzed in moments of struggle and suffering. Was it possible that our capacity for spiritual awakening is written in our biology? The research suggested that we’re primed for spiritual development at different stages in life, that responding to struggles with spiritual awareness in one phase can help us in the next, and that failing to do so increases the likelihood of depression.
+Building on the work of her colleagues across the psychology field, Miller was discovering that humanity is hard-wired for spirituality and that a spiritual brain is a healthier brain.
+
+# Spiritual healing is about attuning to a larger consciousness and the meaning it reveals.
+For years, Miller had tried to get pregnant, first naturally and then through IVF. But to no avail. She began falling into a depression with the growing realization that she may never become a mother.
+Then, one day, she came home to find an egg – more specifically, a fertilized duck embryo – on her doorstep. Hoping to save the embryo, she carefully moved it, placing it on the earth, and went inside.
+Later, she heard a knock at the front door and opened it to find a grown female duck waddling away. When she looked down, there was a worm lying at her feet. It was a gift from the mama duck, and for Miller, a sign from the universe.
+The key message is: Spiritual healing is about attuning to a larger consciousness and the meaning it reveals.
+The mother duck opened Miller to perceive more synchronicities in her life. Soon they were everywhere. While feeling pessimistic before another IVF treatment, the hotel TV got stuck on a documentary that featured an orphan living in a Brazilian garbage dump. The boy said what hurt the most was not being loved.
+A few weeks later, Miller’s mom called to tell her about someone she’d met who’d just adopted a child from Russia. And this was after a complete stranger on the bus had mentioned international adoption to her entirely out of the blue.
+Miller describes feeling like she was receiving guidance from these helpers, and she started paying attention to their messages. She felt hopeful again. She and her husband talked and decided to pursue adoption.
+This series of events had her thinking about research on the two types of attention. Top-down attention is when we already have an idea and then scan the environment for information that suits our goal. It has the benefit of keeping us focused but also limits our perception. With top-down attention, you tend to ignore everything else.
+But the other kind of attention, bottom-up attention, is more open and less selective. It allows you to see things that you may not have been looking for. Like the synchronicities and other messages that life was sending Miller about motherhood.
+Reflecting on the field of psychology, she began to wonder if healing was less about imposing meaning on our lives, as psychology insisted, and more about tuning in to what life was revealing to us. Perhaps, she thought, we are seekers rather than makers of our path.
+
+# The awakened brain enables us to see the world reaching out to us.
+The willow trees bent inward to form a dome and were covered in animal hides. A fire burned inside and filled the inipi with smoke. Within minutes of stepping in, Miller was drenched in sweat and questioning her decision to come.
+Still reeling from the pain of childlessness, she’d been invited to this Lakota healing ceremony by her cousin, who worked closely with the Native American community. When it was their turn to share, her cousin asked the women healers to help Miller find her child.
+The next morning there was a message on her phone from the adoption agency. They’d located a six-month-old boy in a Russian orphanage. A few weeks after that, Miller was pregnant.
+The key message is: The awakened brain enables us to see the world reaching out to us.
+Through both her fertility journey and her research, Miller was coming to understand that when we live with spiritual awareness, we walk through life differently, and see meaning where we otherwise wouldn’t.
+Spirituality activates the brain’s ventral attention network, the bottom-up awareness that allows us to see beyond our conscious control. Our brains are wired to perceive a larger consciousness.
+Miller was beginning to see herself in relationship with life, and it had things to tell her, starting with a series of synchronicities: a documentary about a Brazilian garbage dump; a gift from a mother duck.
+By listening to those messages, she believes she was guided toward her son in the Russian orphanage. And it’s through dialogue and connection with the universe and others like the Lakota healers that Miller also believes she was finally able to conceive naturally. She eventually gave birth to two daughters.
+This is the power of the awakened brain, and how it can help you heal from suffering. Healing happens not by simply reliving trauma and getting stuck in a cycle of rumination, but by aligning with a larger meaning that life reveals to us.
+Remember the Kendler twin study from earlier? That showed that genes are responsible for 29 percent of spirituality’s impact, but that means 71 percent is up to you.
+Whether you make more space for inner listening by using meditative practices, noticing the synchronicities in your life, or spending time in nature, whatever you choose, you need to cultivate your spiritual capacity.
+
+# Spiritual experiences deactivate your achieving mind and activate your awakened mind.
+After years of research, Miller was finally piecing together the scientific puzzle of spirituality. First, she found that spirituality protects against depression, addiction, and mental illness.
+Then she discovered that our capacity for spirituality is biological and works in the same regions of the brain as depression, but to the opposite effect. She came to understand that spirituality is an integral part of human development and that mental struggle may be the first step in spiritual awakening.
+Now, she wanted to understand what was happening in the brain during a spiritual experience, while it actually happened. She discovered that there are two modes of awareness that see the world, and our place in it, very differently.
+The key message here is: Spiritual experiences deactivate your achieving mind and activate your awakened mind.
+For their next study, Miller and her team recorded the brain activity of young adults as they first told a story about a stressful event, and then one about a spiritual experience.
+While talking about the stressful event, the brain’s frontal lobe would light up. This is the part responsible for motivation and reward. Miller noticed that all of the stories involved working very hard to gain control over an uncertain situation.
+Stress activates what she calls the achieving mind: a mode of awareness that focuses on organizing and controlling our lives. The achieving mind asks, how can I get and keep the things I want in life?
+In contrast, telling a spiritual experience activated different parts of the participant’s brain: the frontotemporal network, which is associated with love; the parietal lobe, where we experience feelings of unity and belonging; and the ventral attention network, where we see the world as active and speaking to us.
+During their spiritual experience, participants described a sense of their boundaries softening. They could experience a distinct self, but one that was part of a greater unity. They felt a loving connection to other people, nature, or a higher power. This is what Miller calls the awakened mind.
+Rather than being limited, tense, and controlling like the achieving mind, the awakened mind uses different parts of the brain that make us more open to information from different sources. It allows us to see the meaning and relationship between events, while also feeling more connected and less alone.
+
+# The awakened brain enables us to see our connection with others, nature, and a greater unity.
+In 1987 at the University of Mexico, a man named Dr. Jacobo Grinberg carried out a series of experiments that began to untangle the mysteries of human connection. He had two subjects meditate together for 20 minutes and found that afterward, their brain wave patterns were in sync.
+The meditators were then separated into shielded rooms where they couldn’t see or hear each other. Here, researchers flashed light into one subject’s eyes and measured the corresponding brain wave activity. What they found was that the other subject, in a completely separate room, mentally registered the flashes of light as well, about one-quarter of the time, despite receiving no physical flashes.
+The correlation was too significant to be mere chance. It was as if their brains were still connected, even when separated from each other.
+The key message here is: The awakened brain enables us to see our connection with others, nature, and a greater unity.
+The brain-to-brain syncing demonstrated in Grinberg’s experiment is called resonance, and it’s not isolated. In another study it was shown to alleviate pain: when someone held their partner’s hand, the action reduced the level of pain they experienced.
+Looking at scans for the hand-holding couples, the interbrain resonance is noted mostly in what are called high-amplitude alpha waves. These are the same wavelengths that Miller found emanating from people who’d recovered from depression through spirituality. They’re also generated by meditating monks.
+In fact, it turns out this alpha wavelength is found everywhere, including in nature. It’s the main frequency of the earth’s electromagnetic field, which completely surrounds us. Miller has come to think of it as the wavelength of the oneness of life. And this deep interconnectedness may be one reason why spending time in nature feels so healing.
+Of course, some people benefit more than others. Research from the University of Melbourne shows that people who report high spirituality experience the benefits of nature on their well-being significantly more than nonspiritual people.
+Miller’s research shows that this relational aspect of spirituality has the strongest association with cortical thickening in the brain, which protects against depression. It can be mapped across different faith traditions too, from Christianity to Islam, Hinduism to Buddhism. 
+Divine love and human love are connected. The awakened brain is one that can see its connection to all life and its source.
+
+# Final summary
+The key message in these blinks:
+Humans are born with an innate, biological capacity for spirituality that’s part of our development. But we can still choose whether or not to use this gift. We can meet life’s challenges with control and rumination, chasing rewards, and living a limited self. Or we can awaken to something larger: our deep alignment with a universe where all living things share a common knowledge. When we engage in spiritual awareness, it protects us from depression and anxiety, and sets the foundations for lifelong wellness.
+Actionable advice:
+Try the “three doors” exercise.
+Miller developed this exercise to build awakened attention. Draw a road on a sheet of paper to represent your life. Think of a hurdle, loss, or challenge you experienced and draw it as a closed door. Next, think about what happened because of that event. What new insight, path, or connection emerged? Draw this as an open door leading to a new path. You might also think of a messenger or guide who helped you at that time. Now repeat the process, identifying two more doors that were closed and how they led to two new ones opening.
+
