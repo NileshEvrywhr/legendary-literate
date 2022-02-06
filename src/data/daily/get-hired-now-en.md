@@ -1,0 +1,111 @@
+---
+title: "Get Hired Now!"
+author: "by Ian Siegel"
+time: 13
+synopsis: "Get Hired Now! (2021) provides a step-by-step guide to finding a job and getting hired. It covers how to find the right job vacancies, write a first-class résumé that gets past the robots, dress and perform well at interviews, and how to negotiate that job offer!"
+aboutAuthor: "Ian Siegel is the CEO and cofounder of ZipRecruiter, an online employment marketplace for both job seekers and employers. Previously, he held leadership roles at companies such as CitySearch and Stamp.com. "
+description: "by Ian Siegel"
+layout: default.hbs
+---
+
+# What’s in it for me? Become an expert job-seeker and get your dream job.
+You’re probably no better or worse than the average person at finding a job. And that actually means you're probably pretty bad at it. The author suggests 95 percent of us don’t really know how to look for jobs, let alone know how to get hired.
+That’s where these blinks come in. They provide the information you need to find and apply to the right jobs, write a good résumé, ace your interview, and negotiate your job offer – and do it all with confidence.
+In these blinks, you’ll learn
+
+why you need to write like a caveman;
+why perfume and cologne are a big no-no at interviews; and
+which things – other than money – you should consider negotiating.
+
+
+# Get your résumé right, get past the bots, and don’t lose a job because of a typo!
+Forget all you think you know about writing a résumé – things have changed. These days, more than 75 percent of résumés are read first by robots, so your main aim is to get past them. But how?
+First, forget fancy and go for something simple – boring, even. Don’t use boxes, columns, tables, headers and footers, logos, or nonstandard fonts.
+Next, change any weird job titles to something generic that robots recognize. Better still, if the employer is using specific job titles, you should use them, too.
+Finally, the author suggests that you write like a caveman. That means keeping your language clear and simple. This makes it easier for bots to summarize your résumé. Studies also suggest that recruiters look at your résumé for as little as 7.4 seconds – just enough time to check your qualifications. So clarity and simplicity are the way to go.
+The key message here is: Get your résumé right, get past the bots, and don’t lose a job because of a typo!
+And how do you get the content right? 
+Well, first of all, get the basics in there: your full name, address, phone number, and email address. Include a summary paragraph if you have extensive experience, or a résumé longer than a page.
+Next, detail your work experience. State where you worked – including generic job title, company name and location; what you did; and the impact you had – use numbers if you can. For example, don’t write, “Burrito maker.” Instead, write, “Made 1,000 burritos per week.” Your most recent job should be first. If you’re a creative, remember to include links to your portfolio.
+Your education section should only include high-school results if you haven’t completed any higher education. And when it comes to listing your skills, be precise about them, and include how long you’ve used them.
+Be honest about gaps in your work experience, and own them. For example, if you were laid off, say so, and describe why. If you were fired, on the other hand, don’t mention it – get yourself past the bots first, and explain what happened in the interview. If you stayed home to raise children, you can even make this humorous: “Changed 6,729 diapers” for example, or “Reduced crying time by over 63 percent.”
+Finally, whatever you do, double-check your spelling and grammar. Get a friend to check it, too. Errors here scream, This person has poor attention to detail. Don’t lose a job opportunity because of a simple typo!
+And yes, consider paying a résumé-writing service. This is their job and they’re specialists at it.
+
+# Clean up your social media and build relationships through networking.
+So your résumé is sorted. Great. But there’s something else you need to do before you’re ready to search for jobs: check out your online reputation.
+A survey in 2018 by the online employment website CareerBuilder found that 70 percent of employers research candidates for jobs using social networking sites such as Facebook, Twitter, Instagram, and LinkedIn. Not only that, 57 percent of them decided not to hire an applicant because of the content they found.
+So, now’s the time either to clean up your posts and leave only what you might want a potential employer to see, or simply set your privacy levels to private. Of course, don’t do this with LinkedIn – that’s a professional networking site where employers are meant to find you – but do review all your posts and comments.
+Here’s the key message: Clean up your social media and build relationships through networking.
+Next, you need to line up your references. A 2019 survey by Accounttemps found that one in three candidates are eliminated after a reference check. So choose people you know will give you a great recommendation – perhaps previous employers and coworkers, or, if you’ve just left school, your teachers or professors. And don’t forget to reconnect with them when you give their names to a potential employer.
+Depending on which survey you believe, somewhere between 60 and 85 percent of jobs are filled through networking – it really can be a case of who you know rather than what you know. 
+So how exactly do you network? First, invite everyone you know to join your social networks. That includes family, friends, alumni, acquaintances, second-degree relations, employees from your current company and previous ones, members of clubs and associations you’re in, members of your religious congregation, and so on. Like, retweet, share, or comment on everything and anything! The more you give on social media, the more widely you’ll be known. And tell everyone about your passions – most people who then like your posts are probably worth connecting with. But maybe don’t share passions about things that could be divisive, like guns, politics, or conspiracy theories!
+And remember, whether on social media or in real life, you’re networking for relationships – not jobs. Your real purpose is to get to know people better. A lot of jobs are never advertised because they’re created internally, or especially for a known candidate. Perhaps that could be you.
+
+# Use feature-rich job-search engines and professional networking sites to find the right vacancies.
+Although it may seem otherwise, finding a job has never been easier. Long gone are the days of searching through classified ads in the newspaper, sending your résumé and cover letter through the mail, and waiting for weeks for a phone call or letter in response.
+These days, job search tools and professional networking sites are what you need. But they aren’t all equal – only a handful of sites give you everything you need.
+The key message is this: Use feature-rich job-search engines and professional networking sites to find the right vacancies.
+The first thing to look for in a job-search site is aggregation. Sites that do this scour the internet and bring together millions of jobs from every site. Check whether the job-search site you’re using allows you to make one-click applications, which allow you to apply from within the interface – saving you both time and frustration.
+Make sure that your chosen site also uses AI to recommend jobs and alert you to new jobs the moment they’re posted. It should also allow you to provide feedback so the algorithm can make better future recommendations.
+A useful feature is to be able to review what the site’s bots have extracted from your résumé and correct that information. You should also be able to see how good a match you are for every job.
+Ideally, you also need to be able to keep track of your applications within the site. And it helps to know the status of your application – for example, does the site send emails telling you that your résumé is being read or that a potential employer has given you a positive rating?
+And finally, what if a job comes to you? AI can now alert employers to your résumé, and if they like you, they’ll more than likely invite you to apply. That’s right: they find you!
+Perhaps unsurprisingly, the author recommends you use ZipRecruiter, as he’s cofounder and CEO of the site!
+But LinkedIn is also a must. Keep your page updated with your skills, experience, and a photo. Make sure your headline provides an overview and lets recruiters know you’re open to opportunities. Search for jobs and companies you’re interested in, connect with current and past colleagues and friends, and join professional groups to expand your network further.
+
+# Apply to the right jobs – and do it quickly.
+Strike while the iron’s hot – you know the adage. Well, when it comes to applying for jobs, it’s spot-on.
+Take one recruiter’s experience. A vacancy arrived on a Monday morning, and the recruiter immediately approached two suitable candidates. The first said she was interested the same day, and the recruiter sent her résumé immediately to the employer. A phone screening took place that evening, she was interviewed on Wednesday, and references were taken up on Thursday. In contrast, the second candidate took three days to respond, but the recruiter sent his résumé in anyway. The hiring manager simply said they were already “too far down the road” to consider anyone else.
+The key message here is: Apply to the right jobs – and do it quickly.
+So, apart from applying quickly – preferably within two days of the job being posted – what else should you do?
+It’s important not to disqualify yourself from jobs based on the listed job requirements. You should consider these the employer’s wish list, or nice-to-haves. For example, if you see the phrases “entry-level” and “three years’ experience” in the requirements, they can’t both be right. So, if you think you have at least 40 percent of the requirements being sought, get that application in!
+And when searching for jobs, look for those that match your current job title exactly; bots will almost certainly put your résumé in front of a human based on that alone. If you know someone at the company, all the better – 50 percent of jobs are filled this way.
+Getting a job will be easier if you’re passionate about the product, company, or service. If you are, you’re probably already an expert, and you’ll be able to talk with enthusiasm. The company will love you!
+What else to consider? How about how close the job is to home? According to a survey in 2018 by the global HR company Robert Half, 23 percent of people leave their jobs because of the commute.
+Look out for jobs in which you’ll earn more money than you’re making now, too. It may not be your long-term motivator, but knowing there’s a chance of a wage hike is going to motivate you to get that job.
+Finally, consider vacancies at your current employer’s direct competitors. From their perspective, you’ll have knowledge and expertise that few others can match – but do check that this doesn’t place you in contractual conflict, and certainly don’t ever take anything from your old company to the new one!
+
+# Don’t wear cologne, don’t sweat it, dress appropriately, and make a good first impression.
+Job interviews generally last from 30 to 60 minutes. And how long do you have to make an impression? Just 20 seconds. Yes, that’s right: 20. Your clothes and behavior in those first 20 seconds play a huge role in whether you’ll get hired.
+So what should you wear? Let’s start with what you shouldn’t: Don’t wear perfume or cologne. What smells good to you might not to your interviewer. And you never know – that scent you’re so fond of might just be a smell that triggers memories of the interviewer’s bad breakup!
+Here’s the key message: Don’t wear cologne, don’t sweat it, dress appropriately, and make a good first impression.
+Sweat can be a nightmare at interviews – it makes you look less confident, less competent, and even less trustworthy. So what can you do about it?
+Start by using unscented antiperspirant. Wear a cotton undershirt and, if you’re a heavy sweater, consider using sweat pads under your armpits. Use a handkerchief or scarf to keep your hands dry, and, if possible, ask for some ice water before the interview to keep your hands cool. Remember, don’t drink alcohol the night before your interview, and coffee is off-limits on the day of the interview – both can trigger sweating.
+And what should you wear? Well, research shows that nice clothing simply makes you appear more competent. But you don’t have to spend a fortune on your interview outfit – just find something that looks stylish. Think about sweat in this context, too – clothes that don’t show it are best. And it’s very important to remember to iron those new clothes before the interview.
+Now you’re dressed to impress, and ready for that interview – but what was that about behavior? Well, there are a few things you must do.
+First, smile – a real smile. The more you smile, the more your interviewer will expect things to go well. Actually, smiling will also calm you down, as it reduces stress hormones in your blood.
+Second, be sure to make strong eye contact. This shows that you’re confident and increases the interviewer’s belief in you. But only do this at the beginning as too much eye contact can make you appear dishonest.
+Finally, give a firm handshake – this also shows your confidence. And use the interviewer’s name; this demonstrates respect, and shows you consider the interviewer to be important.
+You’re doing well so far – but how do you ace the rest of the interview? You’ll discover that in the next blink.
+
+# Interviewing is like a game of tennis.
+The most commonly asked opening interview request is Tell me about yourself. This isn’t an opportunity for you to talk through your résumé, though. Your interviewer has read it. So counter this with a “magical first sentence.” Use the interviewer’s name, express interest, and pivot the conversation by talking about the company or the interviewer.
+For example, you could say something like, “John, I’m really excited to be here because for the last ten years I’ve been working on marketing strategies, and what you do here is far better than anything I’ve seen before. How did you start to . . . .” You get the idea.
+The key message is this: Interviewing is like a game of tennis.
+You can imagine this kind of interview tactic as being like a game of tennis. Each time you’re asked a question, make sure you hit the ball back to the interviewer. This way, you make the interview into a two-way conversation: First, answer the interviewer’s question, but then finish with a question of your own.
+Interviews usually result in one winner. You want that to be you. Help that happen by creating a “memorable moment” during your interview – a moment when the interviewer feels she’s taught you something, changed your mind, or improved on an idea that you offered.
+How exactly? Make the interviewer feel great about herself by leaving a two-second gap before you respond to a question or a point she’s made. This breaks the conversation and shows you’re thinking about what she said or asked. You’ll come across as a great listener, too!
+There are two other common interview questions you should prepare for:
+First, Why are you leaving your current job? There are no perfect answers to this, but whatever you do, don’t answer this with negatives about your current boss or company. All this will do is end up reflecting badly on you.
+Second, What are your salary expectations? Don’t just add x amount to your current rate; do some research before the interview so you know the market rate for the position. You don’t actually have to give a number at all, but could instead simply say that you want a fair rate.
+At the end of most interviews, you’ll also be asked whether you have any questions. Of course you do! This will give the interviewer more opportunities to talk about herself. You could ask, for example, “What excites you about working here?” “What challenges have you faced here?” Or “Do you have any hesitation about me fitting in?”
+Finally, you should always follow up. Write a simple thank-you note. Surprisingly, only 43 percent of candidates take this simple opportunity to stand out.
+
+# You have to negotiate to get what you want.
+According to the Bureau of Labor Statistics, the median US salary in 2020 was $56,000. Most people stay in a job for four years. So if you negotiated for just 5 percent more than the median, that would mean an extra $2,800 each year – an extra $11,200 in your pocket over four years, even without taking into account any annual raises.
+Yet when ZipRecruiter surveyed over 50,000 job seekers in 2019, it found that 64 percent of responders accepted their first job offer without ever negotiating.
+Don’t be afraid of losing that job offer – negotiating isn’t going to lose it for you. Your potential employer is just as afraid of losing you as you are of losing the offer. So, negotiate – you may be able to increase the offer by at least 10 percent.
+The key message here is: You have to negotiate to get what you want.
+Negotiating may be painful, but you really must do it. In fact, employers expect it – and one-third of candidates do negotiate. So employers routinely reduce their first offers to any candidate by between 5 and 15 percent. Research what range of salary employers in the area are paying for the role you’ve been offered. That way you can be sure what you ask for isn’t unreasonable.
+Conventional wisdom would have you believe you shouldn’t be the one to mention money first. Actually, the opposite is true – go in first, and make sure you give a number higher than you really expect. If the employer makes the first offer, don’t be dragged down by that – counter with a higher number immediately.
+Employers can’t know what you want without you telling them – so what exactly do you want? Of course, money is important, but don’t forget to think about flexible work arrangements, vacation time, moving expenses, or even whether you can bring your dog to work! You may not get everything you want, so be willing to give up things that aren’t a priority for those things at the top of your list.
+After negotiating the offer you want, get it in writing. When it arrives, accept it, and make sure your new employer knows you’re excited about starting. Shift to using we as soon as you can – that way your language is inclusive, and you’re no longer the newbie – you’re already part of the team.
+
+# Final summary
+The key message in these blinks:
+Getting hired isn’t the same as it used to be. Before you make it to the interview stage, make sure your résumé will get past the bots, clean up your online presence, and use the right job sites and tools to find the jobs you want. Next, ace the interview by dressing correctly, making a good first impression, and creating memorable moments. Finally, once you have a potential job offer, negotiate to get what you want. Good luck!
+Actionable advice:
+Quit your job the right way.
+When you quit your job, it’s an act of rejection, so try to cushion the blow. First, don’t quit until you have your new offer in writing. Second, notify your immediate boss before anyone else up the command chain, and give the appropriate notice. Third, don’t overdo your excitement or brag about the opportunity. Fourth, if your current employer makes you a counteroffer to stay, think about it seriously overnight – and if you’re willing to stay, make sure you’re happy with the counteroffer. And finally, if you do decide to stay, let the new company know immediately.
+
