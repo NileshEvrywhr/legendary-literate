@@ -1,0 +1,174 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="description" content="by Matt Fortnow and QuHarrison Terry" />
+    <title>The NFT Handbook</title>
+    <style>
+      html, body {
+        margin: 0;
+        padding: 3% ;
+        font-family: 'Lato';
+        font-weight: 500;
+        font-size: 12px;
+        background: #f2efe9;
+        -webkit-print-color-adjust: exact;
+        box-sizing: border-box;
+      }
+
+      .page {
+        position: relative;
+        height: 90mm;
+        width: 50mm;
+        display: block;
+        background: #f2efe9;
+        page-break-after: always;
+        margin: 10px;
+        overflow: hidden;
+      }
+
+      @media print {
+        body {
+          background: #f2efe9;
+        }
+
+        .page {
+          margin: 0;
+          height: 100%;
+          width: 100%;
+        }
+      }
+
+      .page.first {
+        border-left: 5px solid green;
+      }
+
+      .bottom {
+        position: absolute;
+        left: 5mm;
+        right: 5mm;
+        bottom: 5mm;
+      }
+
+      .group {
+        margin-top: 3mm;
+        page-break-inside: avoid;
+      }
+
+      .line {
+        color: #f2efe9;
+        position: relative;
+      }
+
+      .center {
+        text-align: center;
+      }
+
+      .logo {
+        position: relative;
+        width: 80%;
+        left: 10%;
+        top: 15%;
+      }
+
+    </style>
+</head>
+<body>
+    <div class="page">
+        <h1 class="center">The NFT Handbook</h1>
+    </div>
+
+        <h1 id="whats-in-it-for-me-a-crash-course-in-the-latest-crypto-craze">What’s in it for me? A crash course in the latest crypto craze.</h1>
+<p>Chances are, you’ve gotten the hang of cryptocurrencies in the decade and a half that they’ve been knocking around. Maybe you’ve even bought and sold one of the dozens of digital currencies. 
+But then along comes another crypto craze: NFTs, or “non-fungible tokens.” 
+What’s it all about? Are people really spending hundreds of thousands of dollars on pictures you can freely download onto your computer? 
+Well, yes. But it’s a little more complicated than that. 
+In this Blink, we’re going to break down the how, what, and why of NFTs as we look at the problem they’re designed to solve and the opportunities they present for collectors and investors. 
+Along the way, you’ll learn </p>
+<p>how blockchain technology helps solve online piracy;
+why a dollar bill is fungible and the Mona Lisa is not; and 
+how to buy, make, and sell NFTs.</p>
+<h1 id="a-question-of-ownership">A Question of Ownership</h1>
+<p>Our journey begins in Paris, in the Louvre – the most-visited museum on the planet. 
+The main attraction for lots of those visitors is an enigmatic portrait in oil on white poplar wood finished around 1500: Leonardo da Vinci’s Mona Lisa. 
+Currently, insurers value the work at over $800 million. 
+Where does that number come from – why is this 30-by-20-inch painting so valuable? It’s a deceptively simple question, so let’s break it down. 
+The first point we can make is that there’s only one Mona Lisa. Sure, we can reproduce the painting as a poster, but even the best reproduction lacks something important. 
+In the art world, people call that something “aura.” There’s something special about a one-off work. It has a unique existence in the place it happens to be; it’s the only one of its kind. When we hang reproductions of famous paintings on our walls, it just doesn’t feel the same as looking at the originals in museums. 
+One reason for that is that reproductions don’t have the same provenance. A long line of documentation about ownership lets us trace the Mona Lisa all the way back to the early sixteenth century. We know it’s the work of Leonardo da Vinci, one of the most important figures in the history of Western art. That knowledge gives the original painting great cultural significance. 
+The tech world uses a different word to describe one-offs. That word is non-fungible.
+“Fungible” means that something is mutually interchangeable. A dollar bill is a great example. If you and I have dollar bills and we decide to trade them, nothing really happens. Both bills have the same spending power; no one who accepts dollars for things they sell cares which bill they receive. 
+The Mona Lisa sits at the other end of the spectrum: it’s extremely non-fungible. If you happen to own the painting, you’re not going to trade it for a poster. Even a high-end forgery isn’t worth much because it doesn’t have the original’s provenance – its well-documented and storied history.
+The key point here is that provenance establishes uniqueness. Unique things are, by their nature, rare or scarce. And basic economics tells us that high demand plus scarcity drives value up. 
+So that’s how we get to that $800 million valuation. Everyone wants to own a culturally significant work that’s literally changed the way we see the world, but there’s only one Mona Lisa. If you can prove that you own the real thing, you’ve got it made. It’s a seller’s market. 
+But what’s all that got to do with NFTs? Well, it’s a lot easier to establish ownership and provenance – to trace what belongs to whom and who made what – in the analogue world than it is in the digital world. That’s the problem NFTs solve.</p>
+<h1 id="the-blockchain-revolution">The Blockchain Revolution</h1>
+<p>Music used to be sold on vinyl LPs, tapes, and CDs. To own a song, you had to own the physical product. There were bootlegs and black markets, of course, but reproducing music was fairly tricky. 
+The internet changed everything. In digitized form like MP3 files, music was suddenly infinitely copyable. All it took was a few clicks and you had endless copies of songs that were impossible to tell apart from the original. Add in people’s urge to share, and music became virtually free overnight. 
+It was the same story with all kinds of digitized products, from movies to photographs to artworks. 
+The issue for producers and creators was as simple to state as it was hard to solve: How do you establish ownership of easily copyable digital assets like electronic files? 
+Legal clampdowns on file-sharing services like Napster is one answer. Streaming services like Spotify provide another model. But the most revolutionary answer of all is blockchain. 
+Blockchain is the technology on which the world’s first major digital currency was built – Bitcoin. 
+Like all digital currencies, Bitcoin faced a massive potential issue known as the double-spending problem. 
+When you spend a dollar bill, it’s gone. Two people can’t simultaneously spend the same dollar. You could try counterfeiting dollar bills, of course, but the obstacles are daunting. Copying digital money and spending it twice, though, is like copying and sharing MP3s: you hit “control” plus “c.” 
+In simple terms, a blockchain is a global network of thousands or even millions of computers or “nodes.” Each node in the network tracks and records every Bitcoin transaction. Every time you buy or sell Bitcoin, the transaction is recorded in a shared database known as a ledger. Before a “block” of encrypted data can be added to the ledger, a majority of computers in the network have to solve complex mathematical puzzles to verify the accuracy of the data. Once that’s happened, the block is “chained” to previous blocks recording earlier transactions, all the way back to the very first transaction. 
+Because the computational work needed to verify transactions is so great, no individual or group can add fraudulent transactions to the blockchain. That’s how Bitcoin solved the double-spend problem. 
+The result is a currency which can’t be manipulated. That makes it inherently trustworthy.
+Blockchain technology can also be used for other things, though. Say you wanted to establish who owns which media. You could record who created a unique digital work as well as every time it changed hands going forward. In other words, you could create an inherently trustworthy – because unfalsifiable – record of a work’s provenance. That’s the blockchain revolution. Suddenly, it becomes possible to create scarce and valuable digital assets. And that’s what makes NFTs possible.</p>
+<h1 id="collecting-stamps-online">Collecting Stamps Online</h1>
+<p>Let’s recap. You don’t have to go to Louvre to see the Mona Lisa – you can buy a poster and hang it on your wall. But there’s only one real painting by that name, and it hangs in the Louvre. In the unlikely event that the French state decided to sell it, bidding would start at around $800 million.
+The price is so high because Leonardo’s masterpiece is extremely non-fungible. It’s an absolute one-off and trusted documentation proves it’s the real deal.
+The problem with digital assets until recently was that establishing ownership and provenance was tricky. Because they’re so easy to copy, digital assets are hard to control, making them highly fungible.
+As we’ve seen, though, blockchain changed that. Which brings us to our first definition of NFTs. A non-fungible token is a record of ownership of digital assets held on a decentralized database that’s very, very hard to falsify. That’s the theory. What about reality – how do NFTs work in the real world? 
+Naysayers point out that NFTs are certificates of ownership – there’s no tangible asset. When a digital artist sells an NFT of her work, the buyer pays for a token saying they own it. That’s it. The image itself remains online. Anyone can download it, print it out, and put it on their wall. So, why would you pay good money for an NFT?!
+Well, here’s another way of defining NFTs: they’re unique digital collectibles secured by the blockchain. So what we’re really looking at here is the psychology behind collecting. 
+From stamps to sneakers, Pokémon cards to mid-century chairs, people collect all kinds of things in all kinds of formats. Different factors drive people to collect. Some see collections as investments; others have FOMO – the fear of missing out. But the core of all collecting is scarcity. The rarer a desired good is, the more valuable it becomes. Just ask the collector who paid $900,000 for an ultra-rare Pokémon card – a vintage Pikachu card produced in a limited run of 39 back in 1998.
+It’s documented ownership of the real thing that’s valuable. So, to come back to the naysayers’ question, why would anyone pay good money for an NFT even though you can download digital art with a click of your mouse? Because people want to own scarce collectibles, and blockchain technology provides a guarantee of ownership that’s as solid as any contract drawn up by analogue auction houses. 
+NFTs, in other words, bring collecting online. But the desire to own NFTs is rooted in a much older, pre-digital human instinct – the desire to hoard rare, status-enhancing goods.</p>
+<h1 id="digital-mona-lisas">Digital Mona Lisas</h1>
+<p>So what kind of unique digital assets are people collecting? The answer is that pretty much anything can be an NFT, but let&#39;s start with digital art. 
+The best-known works of the NFT era don’t look like Renaissance paintings, but they’ve been selling for prices that rival those of old school canvases. Take the digital artist Mike Winkelmann, aka Beeple. 
+In 2007, Beeple started a project called Everydays. The goal was to create a new digital artwork every day and hone his skills along the way. He slowly developed the unique style for which he’s now known: surreal collages of presidents, celebrities, and pop-culture touchstones like Buzz Lightyear. Other pieces, like his image of a pixelated Mona Lisa, ironically reference his lack of conventional artistic training. 
+Beeple made history in 2019 by becoming the first artist to sell an NFT through Christie’s, a British auction house that’s long been a central node in the global art market. Beeple’s work, which featured images from the first 5,000 days of the Everydays project, sold for $69 million.<br>His aren’t the only digital artworks which are highly sought after. CryptoPunks, a limited edition run of 10,000 randomly generated pixelated punks, regularly sell for hundreds of thousands of dollars. A collection of 10,000 cartoon apes known as the Bored Ape Yacht Club sell for just as much. Famous collectors of the apes include Eminem, Gwyneth Paltrow, Paris Hilton, and Serena Williams. 
+But it’s not just digital art that’s being sold via blockchain. Online culture is a treasure trove of potential collectibles. An NFT of one of the first Vine videos ever made sold for over $16,000. So is music. When the rock band Kings of Leon released an album as an NFT, it generated over $2 million in sales. Videos are another popular format. Collectors of highlight videos featuring famous moments in American basketball history have spent over half a billion dollars on NBA Top Shots NFTs. 
+NFTs are also changing the way digital work is funded. Selling tokens of ownership for essays, newsletters, or even tweets allows creators to monetize their work without putting it behind a paywall. 
+Another emerging trend is to combine NFTs with “social tokens” that give buyers special privileges. When you buy a Bored Ape, for example, you get access to a members-only community – think Soho House, but online. Other brands’ NFTs provide access to exclusive merchandise no one else can buy. 
+Add all that together and it’s easy to see why the NFT market is booming right now.</p>
+<h1 id="buying-nfts">Buying NFTs</h1>
+<p>Let’s shift gears and talk practicalities. How can you enter the NFT market? There are two options. You can buy and sell NFTs that already exist, or you can make and sell your own NFTs. We’ll come back to making and selling in a bit. For now, let’s look at the buying side of things. 
+To buy NFTs, you’ll need cryptocurrency. Which cryptocurrency depends on which marketplace you’re using, but the most popular marketplace – that’s OpenSea – uses Ethereum for most transactions. 
+That means you’ll need a cryptocurrency wallet. A secure option that’s often recommended for folks new to crypto is the Coinbase Wallet. Once you’ve set up your wallet, ideally with two-step verification, you can exchange your local currency for Ethereum. 
+Now you can head over to OpenSea and create your account. This part of the process should be pretty familiar if you use online marketplaces like eBay, except you’ll be asked to connect your crypto wallet rather than entering your credit card or PayPal details. 
+And that’s pretty much it – you’re now ready to browse listings and buy NFTs. Not all sales are alike, though. Some NFTs are sold for a set price. In that case, you’ll be given a “buy now” option. Other sales are auctions, which means you’ll be bidding for NFTs against other prospective buyers. Some vendors prefer to take individual offers, in which case you just need to enter the amount you want to pay and the expiration date of your offer. Once the exchange is complete, the NFT will appear in your wallet. Note that OpenSea charges a 2.5 percent fee for each transaction.
+That’s the simple part. Deciding which NFTs to buy is a bit trickier. 
+The authors’ rule of thumb is to only collect NFTs that speak to you. Some NFTs just aren’t going to explode, so pick projects you like, even if they don’t make you any money. It’s also a good idea to curate a diverse collection. NFTs are like any other investment: it’s best not to put all your eggs in one basket. Make lots of small bets on up-and-coming ventures rather than going all in on one mega project. 
+Remember, there’s no rush. Spend a few days browsing marketplaces and seeing what people are talking about on NFT forums. If you’re interested in a project, reach out to the creators – they’ll often be more than happy to share their vision. Starting conversations with other collectors will also give you a better feel for the market. Most important of all, only invest what you can afford to lose!</p>
+<h1 id="making-nfts">Making NFTs</h1>
+<p>NFTs are “minted.” Don’t let the terminology put you off, though – all it means is that the NFT must be added to the blockchain. If you’re using OpenSea, you’ll be adding your NFT to the Ethereum blockchain.
+Here’s how to do it. 
+Head over to the OpenSea platform and look for the “create” menu in the top right corner. When you click on that, you’ll be asked to connect your cryptocurrency wallet and verify ownership of the wallet. 
+Next, click “My Collections.” Before minting an NFT, you have to create a collection. That’s basically a folder for your NFT. At this stage, you can also choose a name and an image to represent the collection. 
+Once you’ve done that, you’ll need to click “Add New Item” and verify your wallet for a second time. The next step is to upload the file you want to turn into an NFT. Now all you need to do is name the NFT and add a description. Finally, hit “Create” to begin the minting process. After confirming this step, the NFT will appear in your wallet.  And that’s it – you’ve just made your first NFT! 
+As we’ve seen, you can make an NFT out of pretty much anything – a tweet, a GIF, a video, a picture, or a digital artwork. The only limitation is copyright: you have to own the material or have a right to use it. 
+When it comes to choosing the content of your first NFT, keep it simple. You can use a photograph or video you’ve shot on your phone, for example. Or you can get creative and create an image. If you’re using traditional materials, you’ll need to scan it in. If you’re using digital tools, upload the file directly. Images should be as high resolution as possible, but they can’t exceed OpenSea’s maximum file size, which is 100 MB. That limit also means your video content can’t be too long.
+Getting the name of your NFT right is vital: the name, after all, is the first thing potential buyers are going to see. Think of it as your chance to stand out in a crowded marketplace. There are a couple of routes you can take here. You can take a leaf out of conceptual artist Sarah Meyohas’s book and pick something attention-grabbing like her project’s name – Bitchcoin. Or you use the file name to emphasize your NFT’s uniqueness by adding descriptors like “one of a kind” or adding series numbers like “1 of 1” or “1 of 50.” 
+So far, so simple. So what’s next? Let’s wrap things up by taking a look at how to sell NFTs.</p>
+<h1 id="selling-nfts">Selling NFTs</h1>
+<p>There are three ways to sell an NFT on OpenSea. You can set a price, wait for potential buyers to send you an offer, or start an auction. Let’s go through the options. 
+Setting a price bypasses one of the risks of auctions – selling an NFT for less than you think it&#39;s worth. But that’s the rub. How valuable is your NFT anyway? 
+When you want to know how much something is worth, you look at the sale price of similar goods. If a three-bedroom house in the same neighborhood as your three-bedroom house sells for X amount of dollars, you have a pretty good idea of how much your home is worth. 
+That approach also works with certain kinds of NFTs. If your NFT is part of a series like CryptoPunks, for example, recent sales of similar CryptoPunks will help you set a realistic price for your NFT.
+But say you’ve created a totally unique, single-edition NFT – how much is that worth? Well, really, it’s worth as much as people say it’s worth. It’s all about demand. How well known are you? How excited are people about what you’re making? How aggressively are you promoting your product? 
+If you’re generating a good amount of demand, set your price. The authors recommend optimism here. Set it a little higher than you think reasonable and see if anyone bites. You can always lower it later. 
+Can’t put a number to your NFT? No problem – you don’t have to set a price. Instead, you can put your NFT onto the market and wait for people to send you offers, which you’re free to accept or decline. 
+That said, it&#39;s best to act fast if you like an offer. ​​On OpenSea, an offer typically expires after ten days and the person placing it can cancel at any time. You don’t need to worry about missing offers, either – OpenSea will send you an email notification every time you receive one. 
+If you’re highly confident about the demand for your NFT, you might not mind taking a risk. In that case, a Dutch Auction could be the best way to go. 
+Dutch Auctions start with a high price that gradually decreases over time. The first person to accept the price wins. Because the chance of missing out is high, participants tend to have itchy trigger fingers. Of course, the risk for you, the seller, is that the price sinks too far. 
+And that completes your NFT toolkit. Now you know how to buy, create, and sell NFTs. What comes next? That’s for you to decide. Happy hunting!</p>
+<h1 id="final-summary">Final summary</h1>
+<p>The human urge to collect is profound. Paintings, sneakers, Pokémon cards – you name it, someone’s bidding on that ultra-rare object which completes their collection. NFTs exist online, but they’re also collectibles. The dynamic behind digital collection is just the same as it is in the analogue world. The rarer something is, the more demand there is for it. And scarcity plus demand equals rising value, whether you’re talking about Renaissance paintings or blockchain tokens.</p>
+
+        <div class="chapter-divider"></div>
+
+</body>
+</html>
